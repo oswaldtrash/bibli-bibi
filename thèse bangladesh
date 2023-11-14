@@ -1,0 +1,3517 @@
+NTNU
+Norwegian University of Science and Technology
+Faculty of Economics and Management
+Department of International Business
+Master’s thesis
+Muhammad Khubaib Zafar
+Ummeh Habiba Faria Benteh Rahman
+FACTORS INFLUENCING ADOPTION
+OF UBER IN BANGLADESH AND
+PAKISTAN
+Master’s thesis in Master in International Business and
+Marketing
+Supervisor: Richard Glavee-Geo
+December 2018
+
+Muhammad Khubaib Zafar,
+Ummeh Habiba Faria Benteh Rahman
+FACTORS INFLUENCING ADOPTION OF
+UBER IN BANGLADESH AND PAKISTAN
+Master’s thesis in Master in International Business and Marketing
+Supervisor: Richard Glavee-Geo
+December 2018
+Norwegian University of Science and Technology
+Faculty of Economics and Management
+Department of International Business
+
+iii
+Abstract
+Purpose: Over all purpose of this study is to investigate the behavioral intentions of consumers
+towards adoption of Uber with focus on effects of digitalization and shared economy on adoption
+of Uber. Another objective is to examine the cultural factors of Bangladesh and Pakistan which
+are leading people towards adoption of non-traditional sources of transport.
+Design/Methodology/Approach: Theory of Planned Behavior integrated with Hofstede’s
+Cultural Dimensions has been used to examine the Behavioral Intention of customers towards
+adoption of Uber. Further, the effects of Technology Adoption Model and two other factors, Risk
+and Trust, on Behavioral Intention of using Uber have been investigated. Data was collected
+through questionnaires from 145 respondents from Bangladesh and Pakistan.
+Findings: Empirical findings show that Risk negatively affects the Behavioral Intention. Furthere,
+Attitude Towards Behavior is highly positively significant when it is moderated by Masculinity
+and Uncertainty Avoidance positively moderates the relation between Social Norms and
+Behavioral Intention, while Uncertainty Avoidance moderates the relation between Perceived
+Behavioral Control and Behavioral Intention negatively. Moreover, study also shows that women
+are more interested in using Uber service.
+Limitations of Study: Data is collected through online close-ended questionnaires which limits
+the generalization of the study.
+Managerial Implications: Study identifies the female as a bigger market and provides an
+opportunity to Uber to categorize the risks prevalent in the society and define new strategies by
+adapting to the local culture by being a global company.
+Keywords: Theory of Planned Behavior, Technology Adoption Model, Hofstede’s Cultural
+Dimensions, Risk, Trust, Digitalization, Shared Economy.
+iv
+Acknowledgement
+We are sincerely thankful to our supervisor, Associate Professor Richard Glavee-Geo for his
+strong support, continuous help and dedicated supervision in this entire Master’s research. His
+constructive criticism, invaluable suggestions and time have helped us to achieve all the steps of
+writing this Master’s thesis.
+We pay our gratitude to all the teaching and non-teaching staff who directly or indirectly put effort
+to enable usto overcome all the hurdles during this two years master’s program. We also appreciate
+all our mates who made this journey pleasant and exciting and we wish them for their future.
+Last but not the least, we are obliged to our families for their steady support and selfless motivation
+withou which it was not possible to pursue this degree and complete it.
+Muhammad Khubaib Zafar
+Ummeh Habiba Faria Benteh Rahman
+v
+Table of Contents
+List of Figures.............................................................................................................................. viii
+List of Tables................................................................................................................................. ix
+List of Appendices.......................................................................................................................... x
+Abbreviations/Acronyms.............................................................................................................. xii
+CHAPTER 1: INTRODUCTION.................................................................................................. 1
+1.1 Background and purpose of the study................................................................................... 1
+1.2 Research problem.................................................................................................................. 2
+1.3 Scope of the study................................................................................................................. 3
+CHAPTER 2: LITERATURE AND THEORY REVIEW............................................................. 5
+2.1 Introduction........................................................................................................................... 5
+2.2 Digital transformation........................................................................................................... 5
+2.2.1 Changing Business Models............................................................................................ 7
+2.3 Empowerment of shared economy........................................................................................ 7
+2.3.1 Assessing the Sharing Economy.................................................................................... 9
+2.4 Technology Adoption Model.............................................................................................. 10
+2.5 Culture................................................................................................................................. 12
+2.5.1 Hofstede’s Cultural Dimensions.................................................................................. 12
+2.6 Theory of planned behavior................................................................................................ 14
+2.7 Empirical Evidence of Uber................................................................................................ 15
+CHAPTER 3: RESEARCH MODELS AND HYPOTHESES..................................................... 19
+3.1 Introduction......................................................................................................................... 19
+3.2 Development of Hypotheses............................................................................................... 20
+CHAPTER 4: RESEARCH METHODOLOGY .......................................................................... 31
+4.1 Introduction......................................................................................................................... 31
+4.2 Philosophical Position......................................................................................................... 31
+4.3 Research Design.................................................................................................................. 32
+4.4 Questionnaire Design.......................................................................................................... 32
+4.5 Data Collection ................................................................................................................... 33
+4.6 Survey and Procedure ......................................................................................................... 33
+4.7 Measurements of the Constructs......................................................................................... 34
+4.7.1 Dependent Variable ..................................................................................................... 34
+vi
+4.7.2 Independent Variables ................................................................................................. 35
+4.7.3 Moderating Variables................................................................................................... 41
+4.7.4 Control Variables......................................................................................................... 46
+4.8 Summary............................................................................................................................. 46
+CHAPTER 5: MEASUREMENT ASSESSMENT AND DATA VALIDATION ...................... 47
+5.1 Introduction......................................................................................................................... 47
+5.2 Descriptive Statistics Analysis and Data Examination....................................................... 47
+5.2.1 Data Screening and Cleaning....................................................................................... 47
+5.2.2 Descriptive Analysis of the Data ................................................................................. 47
+Socio-demographic Information:.............................................................................................. 51
+5.2.3 Factor Analysis of the Data.............................................................................................. 52
+5.3 Reliability of Measurements............................................................................................... 55
+5.4 Validity ............................................................................................................................... 57
+5.4.1 Convergent Validity..................................................................................................... 57
+5.4.2 Discriminant Validity................................................................................................... 58
+Summary................................................................................................................................... 59
+CHAPTER 6: DATA ANALYSIS AND EMPIRICAL FINDINGS ........................................... 60
+6.1 Introduction......................................................................................................................... 60
+6.2 The importance of Uber...................................................................................................... 60
+6.3 Model Estimation................................................................................................................ 60
+6.4 Result’s Estimation ............................................................................................................. 62
+6.4.1 Correlation Matrix ....................................................................................................... 62
+6.4.2 Regression Analysis..................................................................................................... 66
+6.5 Summary of Hypotheses..................................................................................................... 67
+Normality, linearity, homoscedasticity and independence of residuals................................ 70
+6.6 Summary............................................................................................................................. 70
+CHAPTER 7: CONCLUSION ..................................................................................................... 72
+7.1 Introduction......................................................................................................................... 72
+7.2 Findings’ Summary............................................................................................................. 72
+7.3 Discussion and Conclusion................................................................................................. 74
+7.4 Implications of Study.......................................................................................................... 75
+7.4.1 Theoretical Implications .............................................................................................. 75
+vii
+7.4.2 Managerial Implications .............................................................................................. 76
+7.5 Limitation of the Study ....................................................................................................... 77
+7.6 Future Research .................................................................................................................. 77
+Bibliography ................................................................................................................................. 78
+APPENDICES .............................................................................................................................. 83
+viii
+List of Figures
+Figure 2. 1: Digital Economy.......................................................................................................... 6
+Figure 2. 2: Sharing Economy and Related Forms of Platform Economy ..................................... 8
+Figure 2. 3: The Division of Faith-Holders and Hate-Holders and Consequences to
+Organizational Legitimacy............................................................................................................ 10
+Figure 2. 4: Adopted Technology Adoption Model...................................................................... 11
+Figure 2. 5: Theory of Planned Behavior...................................................................................... 15
+Figure 3. 1: Integration of TAM, TPB and Hofstede Cultural Dimensions ................................. 19
+Figure 4. 1: Underlying Philosophical Assumptions.................................................................... 31
+ix
+List of Tables
+Table 5. 1: Descriptive Statistics .................................................................................................. 48
+Table 5. 2: Factor Analysis........................................................................................................... 52
+Table 5. 3: Reliability Analysis .................................................................................................... 56
+Table 5. 4: Squared Correlation .................................................................................................... 58
+Table 6. 1; Entrants of Model Estimation..................................................................................... 61
+Table 6. 2: Correlation Matrix ...................................................................................................... 63
+Table 6. 3:; Regression Analysis .................................................................................................. 67
+Table 7. 1: Summary of Hypotheses............................................................................................. 73
+x
+List of Appendices
+Appendix 1: Descriptive Statistics from SPSS ......................................................................... 83
+Appendix 2: Socio-Demographic Statistics............................................................................... 84
+Appendix 2. 1: Age of Respondents.............................................................................................. 84
+Appendix 2. 2: Gender of Respondents......................................................................................... 85
+Appendix 2. 3: Marital Status of Respondents.............................................................................. 85
+Appendix 2. 4: Education Level of Respondents........................................................................... 85
+Appendix 2. 5: Occupation of Respondents.................................................................................. 86
+Appendix 3: Factor Analysis...................................................................................................... 86
+Appendix 3. 1: KMO and Barlett’s Test........................................................................................ 86
+Appendix 3. 2: Communalities...................................................................................................... 87
+Appendix 3. 3: Total Variance Explained..................................................................................... 89
+Appendix 4: Reliability Measurement ...................................................................................... 91
+Appendix 4. 1: Reliability Statistics of Uncertainty Avoidance.................................................... 91
+Appendix 4. 2: Reliability Statistics of Power Distance ............................................................... 91
+Appendix 4. 3: Reliability Statistics of Masculinity ...................................................................... 92
+Appendix 4. 4: Reliability Statistics of Individualism................................................................... 92
+Appendix 4. 5: Reliability Statistics of Long Term Orientation.................................................... 93
+Appendix 4. 6: Reliability Statistics of Perceived Ease of Use..................................................... 93
+Appendix 4. 7: Reliability Statistics of Perceived Usefulness....................................................... 94
+Appendix 4. 8: Reliability Statistics of Risk .................................................................................. 94
+Appendix 4. 9: Reliability Statistics of Trust ................................................................................ 95
+Appendix 4. 10: Reliability Statistics of Attitude Towards Behavior............................................ 95
+Appendix 4. 11: Reliability Statistics of Perceived Behavioral Control....................................... 96
+Appendix 4. 12: Reliability Statistics of Subjective Norms........................................................... 96
+Appendix 5: Linear Regression Analysis.................................................................................. 98
+Appendix 5. 1: Descriptive Statistics; Behavioral Intention (BI) is Dependent Variable ............ 98
+Appendix 5. 2: Pearson Correlations; Behavioral Intention (BI) is Dependent Variable ........... 99
+Appendix 5. 3: Model Summary.................................................................................................... 99
+Appendix 5. 4: ANOVA ............................................................................................................... 100
+xi
+Appendix 5. 5: Coefficient........................................................................................................... 100
+Appendix 5. 6: Histogram........................................................................................................... 101
+Appendix 5. 7: Normal P-P Plot................................................................................................. 101
+Appendix 5. 8: Scatterplot........................................................................................................... 102
+xii
+Abbreviations/Acronyms
+ATB Attitude Towards Behavior
+BI Behavioral Intention
+IND Individualism
+LTO Long-term Orientation
+MAS Masculinity
+PBC Perceived Behavioral Control
+PD Power Distance
+PEU Perceived Ease of Use
+PU Perceived Usefulness
+SN Subjective Norms
+TAM Technology Adoption Model
+TPB Theory of Planned Behavior
+UA Uncertainty Avoidance
+1
+CHAPTER 1: INTRODUCTION
+1.1 Background and purpose of the study
+The world is in the midst of unprecedented urbanization, with cities expected to hold 5.2 billion
+residents by 2050 (Irigoyen, 2014). This trend poses the major threat for big cities in terms of
+mobility or transportation of people. Transport is prerequisite for the bright future of cities as it
+serves as a bridge between people and their routine life segments and processes. Transport industry
+has been affected in developing and underdeveloped countries, like Bangladesh and Pakistan, due
+to inefficient planning and insufficient funding. While talking about Bangladesh, there are
+different factors which cause increase in travel time and economic cost. The number of vehicles
+on city roads in Bangladesh increased 16 times between 2001 and 2013, while motorized public
+transport accounts for only 23 percent of trips (Bank, 2016).
+To overcome these challenges of increased urbanization, better urban transportation is inevitable
+to reduce poverty and enhance economic growth. For this purpose, there is need to decrease
+dependencies upon traditional modes of doing business in transport sector. This has been possible
+with the invention of internet, or particularly with digitalization. This digitalization has
+transformed the ways of businesses by actively responding to the rapidly changing needs of people.
+It has converged the resources possessed by different entities for the collective benefits of the
+society, thus establishing the shared economy. Shared economy is a sustainable economic system
+built around the sharing of private assets. This rather new system mostly relies on information
+technology (P2P) to empower individuals and other profit and non-profit organizations with ways
+of sharing excess capacity in goods, knowledge and services (Korona & Grzunov 2014).
+This sharing of resources with the help of technology, brings the underutilized resources into
+mobilization and thus maximum output would be possible from limited resources. These new
+ventures such as Airbnb and Uber have caused a threat for traditional businesses such as hotel
+industry or taxi industry. Following the model of “shared economy”, in the light of “digitalization”,
+Uber aims to gather the resources held by one person and makes it useful for the other person in
+generating revenue for all stakeholders. Uber started in 2009 with the help of an app and began
+2
+raising venture capital and as by September 2014, Uber had accumulated over $1.5 billion in
+venture capital and operates in more than 70 cities in 45 countries (Cusumano, 2015).
+However, response of people towards this digitalization could be different in different societies.
+Every society is a combination of different mental and practical approaches and thus differs from
+other societies in terms of cultures. The purpose of this study is to explore the behavior patterns of
+consumers towards adoption of Uber in Bangladesh and Pakistan. Study will aim to find out how
+behaviors and intentions of people are formed for the adoption and usage of assets of shared
+technology in the form of ‘Uber’. It will also focus on finding out the cultural factors which can
+mold the behaviors of people towards adoption of technology.
+1.2 Research problem
+Difference in cultures of different societies molds the attitude of people differently towards
+intention and behavior of usage and adoption of certain products or services which are launched
+in the market. People from different cultures have different perceptions and thoughts about the
+new products and services which reflect their behavior about using these products or services.
+According to Hofstede (2011), culture is the collective programming of the mind that distinguishes
+the members of one group or category of people from others. He has categorized the culture on the
+basis of six dimensions which are Power distance, Uncertainty avoidance, Individualism vs
+Collectivism, Masculinity vs Femininity, Long-term vs Short-term orientation, and Indulgence vs
+Restraint. Based on these cultural factors, users may have different perceptions about benefits of
+a technology. Adoption of technology can be understood by Technology Adoption Model (TAM).
+According to Davis (1989), the TAM posits that user adoption is determined by two key beliefs,
+namely, perceived usefulness (PU) and perceived ease of adoption (PEU). "Perceived Usefulness"
+is defined as the extent to which a person believes that using a particular technology will enhance
+his or his job performance, and "Perceived Ease of Use" is defined as the degree to which a person
+believes that using a technology will be free from effort (Calantone, Griffith, & Yalcinkaya, 2006).
+These perceptions further affect the intentions of consumers towards using a technology. Theory
+of Planned Behavior (TPB) suggests that intentions are assumed to capture motivational factors
+for that may influence a behavior. The theory of planned behavior postulates three conceptually
+3
+independent determinants of intention. The first is the Attitude toward Behavior (ATB) and refers
+to the degree to which a person has a favorable or unfavorable evaluation or appraisal of the
+behavior in question. The second predictor is a social factor termed Subjective Norms (SN), it
+refers to the perceived social pressure to perform or not to perform the behavior. The third
+antecedent of intention is the degree of Perceived Behavioral Control (PBC) which refers to the
+perceived ease or difficulty of performing the behavior and it is assumed to reflect experience as
+well as anticipated impediments and obstacles (Ajzen, 1991). Therefore, in the light of abovementioned Hofstede’s dimensions of culture and theories of TAM and TPB, following are the
+possible questions for the study.
+Therefore, in the light of above-mentioned Hofstede’s dimensions of culture and theories of TAM
+and TPB, our research question for the study is.
+Which factors influence the adoption of non-traditional mode of transport in a developing
+country?
+To answer this research question, our empirical context is the use of non-traditional mode of
+transport such as Uber in Bangladesh and in Pakistan. The transport sector has been facing
+problems in many a country due to enhanced urbanization because of globalization and
+concentration of industries in big cities. In transport sector, although taxi service is highly
+regulated, it is not commonly available in small and underdeveloped societies whereas private cars
+can be found abundantly. This study is of much practical implication to businesses and
+policymakers concerning strategies for maximum utilization of underutilized resources to look
+upon the ways for the maximum utilization of underutilized resources by motivating consumers to
+reduce the dependencies upon traditional businesses. It will provide practical background for
+considering the cultural factors which can inhibit or enhance the attitude, intentions and behaviors
+of consumers in adopting a new mode of transport.
+1.3 Scope of the study
+This study analyzes the cultural and behavior factors which promote or hinder the adoption of
+Uber in Bangladesh and in Pakistan. This study is based on a sample of 145 responses gathered
+4
+through a survey using questionnaires. Although this study is from Bangladesh and Pakistan from
+main cities of these countries, its results could be generalized to other countries like India due to
+cultural and economic similarities.
+5
+CHAPTER 2: LITERATURE AND THEORY REVIEW
+2.1 Introduction
+In the first chapter of our thesis we have seen the purpose of the study, research problem and scope
+of the study. We have also come up with a question in the “research problem” part. In chapter two,
+overall focus will be on the digital transformation, changing business models, empowerment of
+shared economy, assessing the sharing economy, technology adoption model, Hofstede’s cultural
+dimensions and theory of planned behavior. Uber is a very rapidly growing e-commerce in
+Bangladesh and Pakistan markets and we will focus on the impact of digitalization in both of these
+countries via “Hofstede” model. Afterwards it will focus on challenges as well of Uber.
+2.2 Digital transformation
+Internet has changed our everyday lives. Digital transformation provides the value to the customers
+and technical solutions provide outcomes of the business innovation. For this transformation
+people across the world have come together virtually. Businesses are aiming to generate value
+propositions to the end users. Digital technologies are usually used for the greater interaction with
+the customers. On the other hand, the toughest approach of the digitalization is the customer
+service. Customers are eager to the convenient way of shopping now a days especially the current
+young generation. The interaction of the customers actually encourages the innovation for the
+online communities who seek for the digital transformation.
+6
+Figure 2. 1: Digital Economy
+Source: Delic, 2016
+The graph above shows that shifts are due to major innovations which brought changes in the
+economy. It shows a right ward shift from infrastructure to technology (digitalization) and from
+data to digital content over the period and value has been created.
+Meanwhile, for the transformation, enterprises need to transform their operating models (Berman,
+2012). Conversion of digitalization must follow the path of the traditional way of doing commerce
+as it provides a harmony. It is the mixture with the analogue materials of traditional form of
+commerce (Routhier Perry, 2014). Along with the traditional way of commerce, digitalization has
+paved a very desirable way to provide superior satisfaction to the customers now a days. In current
+era, digital devices allow the vast amount of information to be connected with the end users in a
+very short period of time and also by using those devices, the physical and/or tangible things are
+converted into virtual objects. Today, the “light organisations” (digital businesses) are taking over
+7
+the “heavy organisation” (physical or tangible businesses). In the digital transformation, businesses
+are connected with the customers via technologies (Tapscott, 1996). Organisations are facing new
+competitors and technologies have been re-shaped accordingly for the delivery of goods and
+services to the end users. However, in future, the consequences of digital transformation will
+change the goals and motives of the organisations.
+2.2.1 Changing Business Models
+During past two decades, business models have been changed due to the digitalization in the world.
+There have been some dramatic changes in the global economy for this. These explains the
+strategies of online marketing and also facilitating distribution channel. The usage of modern
+electronic communication has to be understood by the producers to establish a “two-way”
+interaction with their priority group of customers. Not only this, the nature of the demand for
+product or services must be understood as well (Picard, 2000).
+Digital media makes the profession more global and interactive to the end user customers but many
+practitioners are using digital media just as like they used to use the old techniques before. (Grunig,
+2009). Digitalized technologies create more economies of scope which has changed the content of
+distribution. These also provides the flexibility of the usage and controls the irrelevant
+communication. However, for all these advantages, the producers have to understand the demand
+for the goods and services (Picard, 2000).
+New media has made the profession global in the digitalized era. Public relation is the management
+of information provided to the public. As we know that digitalized economy has changed the
+business models and introduced new models. Public relations as a strategic management must be
+re-institutionalized and a model has been provided by the scholar to understand the usage of digital
+media.
+2.3 Empowerment of shared economy
+As we have previously discussed that the world has become digitalized and businesses are engaged
+across boundaries. This facilitates online marketers especially. Shared economy is being born due
+8
+to these dramatic changes in the usage of modern technologies. Sharing economy is the “sharing”
+of the factors in the market across the border. The current generation has been brought up by the
+openness of the internet. This sharing is a potential tools for the social movement but the
+potentiality requires something beyond than accessing the internet (Schor, 2016). The practice of
+sharing the personal services for the demand of it distinguishes the proper definition of the sharing
+economy actually. The distinction between on-demand and sharing economy has been very clear
+throughout the period of time as many people call “Uber” instead of calling taxi (Frenken & Schor,
+2017).
+Figure 2. 2: Sharing Economy and Related Forms of Platform Economy
+Source: Frenken and Schor (2017)
+Above figure, it illustrates that sharing economy is distinguished from three platforms. In on
+demand economy, people to purchase personal services. In second hand economy, consumer to
+consumer is the access of temporary physical goods that means consumers are trading off the
+second handed goods. Sometimes, people give away their goods without the payment. In product
+service economy, companies provide goods for rent to the consumers but the ownership is not
+passed on to the consumers (Frenken & Schor, 2017).
+9
+2.3.1 Assessing the Sharing Economy
+However, it is not only limited into “peer to peer” transactions rather it is more than what is visible.
+According to the expansion of the sharing economy, practices has to be embedded in contexts
+(Schor, 2016). Sustainable benefits of the sharing economy are much more complex than it has
+been assumed. Undisputedly, the transaction costs are diminished due to shared economy. Some
+marketers are indirectly affected by this P2P (Peer-to-Peer) sharing. The earnings many established
+markets have declined for example: The hotel earning has been decreased in Texas due to the
+growth and usage of Airbnb (Bergh, Truffer, & Kallis, 2011). According to the analysis it has been
+revealed that the Airbnb is partial substitutes for hotel nights especially in the low budgeted hotel.
+It has been assumed that the same case can go for the car rentals or in other goods or service
+sectors. On the other hand, income in the welfare has been unequally distributed. Websites create
+the monopoly and on-demand platforms increased inequality within the bottom 80% of the income
+distribution (Bergh et al., 2011).
+For the hybrid form of marketing, stakeholder role has played an agenda in the public relation. The
+information of the companies often bounces randomly in the online environment and it is not an
+easy task to engaging stakeholders to the pinpoint of the information. The customers need to
+believe what the online provides and there is often no scope to find the actual proof or evidence of
+the validity of the information (Luoma-aho, 2015). According to the assessment and analysis, it
+has been found out that free-rider problems also exist in the shared economy. A decline in the
+overall performance occurs when if no mechanism exists to avoid this problem which will result
+in the lack of interpersonal cooperation. This problem gives birth to the “trust issues” (Zárraga &
+Bonache, 2003). This incidence is clearly shown on the graph below:
+10
+Figure 2. 3: The Division of Faith-Holders and Hate-Holders and Consequences to Organizational
+Legitimacy
+Source: Luoma-aho (2015)
+The figure 2.3, illustrates positively engaged faith-holders, the negatively engaged hate holders,
+and fake holders the unauthentic persona (Luoma-aho, 2015). Moreover, sharing economy is
+changing the traditional relationships between parties as “two-party” relationships have been
+converted into “multiple party” relations. As a result, long term established lines are getting blurry
+or fuzzy on which the policy actually responds.
+2.4 Technology Adoption Model
+In the era of globalization, companies try to compete in the divergent markets with the help of
+advanced and effective technologies. Expansion in the new markets brings the challenges for the
+parent firm to adapt the technology according to the local culture. For effective implementation of
+11
+a technology in a market, it is mandatory that the unique mixture of the local market should not be
+neglected during strategy planning and implementation. According to Hakanson (2000), the
+inability of an MNC to adapt to local conditions, or cultural incompatibility, and the
+inappropriateness of the imported technology are considered major obstacles to the successful
+adoption of new technology (Calantone et al., 2006).
+Technology adoption model (TAM) was proposed by (Davis, Bagozzi, & Warshaw, 1989). It is
+widely accepted as the most authentic model to study the technology adoption in different
+scenarios. The Technology Acceptance Model (TAM) is an information systems (IS) theory that
+models the determinants of computer acceptance across a broad range of end-user computing
+technologies. TAM has been used in several IS studies and has proven useful in determining
+technology acceptance (McCoy, Everard, & Jones, 2005). There have been a lot of extensions in
+TAM but the final model suggested by Davis (1989) has three components which are perceived
+ease of use, perceived usefulness and behavioral intention. According to Davis et al. (1989),
+perceived usefulness is the prospective user's subjective probability that using a specific
+application system will increase his or her job performance within an organizational context and
+perceived ease of use refers to the degree to which the prospective user expects the target system
+to be free from effort (McCoy et al., 2005).
+Figure 2. 4: Adopted Technology Adoption Model
+12
+This model suggests that users develop the perception regarding usefulness and ease of use of a
+technology and then this perception can lead towards behavioral intention. If users find the
+technology useful and easy to use, it will positively affect the behavioral intention.
+2.5 Culture
+As studied by , culture has been defined as; the manner in which a group of people solves problems
+and reconciles dilemmas (Trompenaars and Turner, 1998), the collective mental programming of
+people that distinguishes them from others (Hofstede, 2001), and the fabric of meaning through
+which people interpret events around them (Geertz, 1973). In these all definitions, commonality is
+present which shows that a group of people share the common values and norms which differ from
+another group of people.
+2.5.1 Hofstede’s Cultural Dimensions
+Hofstede's research on cultural dimensions provides a theoretical foundation for exploring the
+impact of cultural differences on the adoption and diffusion of IT-based innovations (Straub, Keil,
+& Brenner, 1997). Hofstede has categorized a culture on following basis.
+Power Distance
+Power Distance has been defined as the extent to which the less powerful members of
+organizations and institutions (like the family) accept and expect that power is distributed
+unequally. This represents inequality (more versus less), but defined from below, not from above
+(Hofstede, 2011). According to Straub et al. (1997), in societies with high power distance, the
+acceptance of technologies is lower compared to the societies with low PD because they have the
+higher acceptance of technologies.
+Uncertainty Avoidance
+Uncertainty avoidance is not the same as risk avoidance; it deals with a society's tolerance for
+ambiguity. It indicates to what extent a culture programs its members to feel either uncomfortable
+or comfortable in unstructured situations (Hofstede). In cultures where there is high uncertainty
+avoidance, people try to use medium which are physically available such as face to face while in
+13
+low uncertainty avoidance cultures, people can more often use electronic medium. Therefore,
+according to Straub et al. (1997), in high UA countries, TAM can be a weaker indicator for
+technology use than it would be in low UA countries.
+Individualism
+Hofstede (2011) defines the individualist side of a cultures in which the ties between individuals
+are loose: everyone is expected to look after him/herself and his/her immediate family. On the
+collectivist side is a culture in which people from birth onwards are integrated into strong, cohesive
+in-groups. As much studies say that collectivist cultures are resistant to technology because
+electronic media reduces the face to face communication while technology acceptance is high in
+individualist cultures.
+Masculinity
+According to Hofstede (2011), Masculinity versus its opposite, Femininity, again as a societal, not
+as an individual characteristic, refers to the distribution of values between the genders which is
+another fundamental issue for any society, to which a range of solutions can be found. Studies
+revealed that (a) women's values differ less among societies than men's values; (b) men's values
+from one country to another contain a dimension from very assertive and competitive and
+maximally different from women's values on the one side, to modest and caring and similar to
+women's values on the other. The assertive pole has been called 'masculine' and the modest, caring
+pole 'feminine'. In less assertive societies, technology acceptance is higher because of low need of
+face to face communication.
+Future Orientation
+Cultures typified by a long-term orientation are oriented towards future rewards, in particular
+perseverance and thrift, while a short-term orientation is characterized by values relating to both
+the past and present, in particular, the respect for tradition, preservation of ‘‘face’’ and the
+fulfillment of social obligations(Al-Gahtani, Hubona, & Wang, 2007).
+In one study Hofstede’s cultural dimensions were applied which showed that people in countries
+with lower power distance, higher individualism, higher masculinity and low uncertainty
+avoidance, intend to adopt a technology on basis of how useful that technology would be to them
+in performing different tasks. They also argued that intention of people from countries that endorse
+14
+higher power distance, lower individualism, less masculinity and higher uncertainty avoidance, to
+adopt technology is highly influenced by social norms (Syed & Malik, 2014).
+2.6 Theory of planned behavior
+For any technology to be effective, it is necessary that it should be used. It is not successful despite
+its merits if it is not used. It is necessary to measure the important factors which can form the
+behavior of users to use or not to use a technology. As discussed by Mathieson (1991), research in
+social psychology shows that behavior is best predicted by an individual's attitude towards the
+behavior (such as using an information system), rather than his or her attitude towards objects
+involved in the behavior (such as the information system itself).
+The theory of planned behavior is an extension of the theory of reasoned action made necessary
+by the original model’s limitations in dealing with behaviors over which people have incomplete
+volitional control (Ajzen, 1991). According to George (2004), for TPB, attitude toward the target
+behavior and subjective norms about engaging in the behavior are thought to influence intention,
+and TPB includes perceived behavioral control over engaging in the behavior as a factor
+influencing intention.
+15
+Figure 2. 5: Theory of Planned Behavior
+Source: Ajzen (1991)
+According to Ajzen (1991), the theory of planned behavior postulates three conceptually
+independent determinants of intention. The first is the attitude toward the behavior and refers to
+the degree to which a person has a favorable or unfavorable evaluation or appraisal of the behavior
+in question. The second predictor is a social factor termed subjective norm; it refers to the
+perceived social pressure to perform or not to perform the behavior. The third antecedent of
+intention is the degree of perceived behavioral control whichrefers to the ease or difficulty of
+performing the behavior and it is assumed to reflect past experience as well as anticipated
+impediments and obstacles.
+2.7 Empirical Evidence of Uber
+Empirical evidence is the collection of information which is done by close observation to the
+researches about a particular object. The observation comes up with questions and hypothesis
+(Hulstijn & Laufer, 2001). The usage of Uber is different in different cities so, the 360-degree
+16
+effect of its usage can-not be identified very easily so, mostly, we needed to rely on the researches
+which has already done by the other authors. We have focused on the Uber changing the usage of
+taxi.
+Uber Changes Taxi
+By using the app in the smartphones, people can get comfortable rides in cheaper way. For the
+sharing economy, taxis are facing new challenges. As the taxi prices are higher, people often feel
+like riding in the cheaper and easier way. Uber uses the car which are rented by the owners in the
+leisure time (Wallsten, 2015). There are some companies who provides ride to consumers but Uber
+is the largest among those, it was launched in the year 2009 but by the mid of the year, it got eight
+million users (Wallsten, 2015). Due to this increasing demand of Uber rides, the taxi drivers got
+threatened and appealed to the politicians to ban the Uber service. In some cities, this appeal
+worked as well.
+Taxis always have been in imperfect competition unlike buses and other public transportations on
+the other hand, Uber competes more directly. It is more obvious if people get more flexible and
+desired level of service, they will immediately accept it in the democratic society. Traditionally
+the consumers had a lot of complains for the taxi service as they charged high and to avoid these
+extra cost, people were bound to take buses or metros but now, in shared economy, they have a
+good incumbent and competitor, Uber (Wallsten, 2015).
+Wage Impacts of Uber
+According to the empirical concern, unobserved Uber drivers are shifting the employment in the
+cities among taxi drivers. People who want to earn just by driving are taking the opportunities of
+becoming an Uber driver in their leisure time. Therefore, the wage has declined for the drivers
+who used to earn via driving taxis. The number of self-employed drivers has increased but the
+professionals have declined. Not only the ride is cheaper than the taxi but also the service quality
+is a lot better as the Uber drivers has more improved “customer-driver” matching. So, for this
+competition, the traditional taxi drivers are facing a downward shift in their hourly wage rate
+(Berger, Chen, & Frey, 2018).
+The above empirical evidence is not generalized for all the countries across the world who are
+using Uber as we have previously mentioned that in many countries or cities, the usage of this
+17
+digital ride has been banned so, the impact on employment and wage has been adopted according
+to the rules of the economy (Berger et al., 2018).
+Ride-sharing is Risky or Safe
+Trust issues are arising regarding Uber in many cities. Safety is mentioned continuously, and it
+has been claimed that Uber is not safe to ride compared to the traditional taxi rides. The safety is
+not properly delivered regarding the third-party, passenger or even with the driver but on the other
+hand, there is no much evidence regarding this unsafe condition (Feeney & companies Uber,
+2015). The model of the ride sharing talks about great advantage though. Cash free transactions
+and self-identification of the customers make the risk less severe. If I go for the explanation, the
+cash has never been transacted by hand and the face of the passengers are not anonymous. So, even
+if the passenger wants to harm the driver, the face can be identified very easily. On the other hand,
+the background investigation of the Uber drivers is clearly checked which is not possible for the
+taxi drivers. The passenger’s location and some information are also collected by the Uber drivers
+(Feeney, 2015). It is also a very good way to reduce the risk of ride sharing.
+Uber Affect Traffic Congestion
+Traffic congestion is a great social issue which has been examined before and after Uber entry in
+the urban area. Surprisingly, Uber reduced the traffic congestion in the urban areas (Zhang et al.,
+2016). It is due to some reasons. Firstly, Uber contains more than one person in the car which
+reduces the aggregate number of cars in the urban areas. On the other hand, it also reduces the
+number of consumers in the busy areas or in the built-up areas. It provides less crowd in the road.
+Secondly, Uber has a price movement policy that means the price of the ride sharing is higher in
+the peak time so, people can adjust the timing of travelling or can use alternatives so, it gives a
+smoother way of traffic in the road which reduces the congestion. Thirdly, the advanced
+technologies like GPS in Uber, helps the driver to reach to the exact destinations without roaming
+around in the streets which saves time, fuel, cost and of course reduces the congestion (Zhang et
+al., 2016).
+Customer’s Acceptance
+Uber and other competitors are focusing on the mass service in the future by utilizing its advanced
+technology but it is not sure or certain that the customers will also response positive towards it or
+whether they will be accepting this service (Zhang et al., 2016). Certainly, the customer’s
+18
+perception of acceptation scenarios is different in the built-up and rural areas on the other hand,
+political pressure is other factor which may put some restrictions in the Uber business in the long
+term if it starts capturing the transport market fully. To capture, customer’s acceptances, the policy
+makers of Uber has to highlight the positive consequences far more than the unintentional negative
+outcomes of ride sharing (Zhang et al., 2016).
+Overall, Uber has to adapt the new strategies and with passage of time, should concentrate on
+tailoring the business model as there are threats which can affect the service and its adoption if
+Uber does not build a strong barrier i.e. no chance for alternatives, strong advertisement campaign,
+fulfilling dynamic changes of customer’s demand etc. to last long in the market.
+19
+CHAPTER 3: RESEARCH MODELS AND HYPOTHESES
+3.1 Introduction
+In the previous chapter, we have focused on the literature reviews along with many empirical
+evidences on the usage of Uber. Based on those and also based on the purpose of our study, we
+have come up with the models. In the previous chapter, we have also discussed few models and
+finally we have decided to integrate two models, Theory of Planned Behavior and Technology
+Acceptance Model. We have also put the Hofstede factors as mediator variables. After this fine
+integration, we have come with many hypotheses which discusses the entire integration of the
+models and give clear ideas what we actually wanted to focus. The whole re-developed model has
+been subdivided and hypothesis are explained individually. The overall model has been inserted
+below:
+Figure 3. 1: Integration of TAM, TPB and Hofstede Cultural Dimensions
+20
+3.2 Development of Hypotheses
+Technology Acceptance Model (TAM) describe that when a new technology is provided to the
+consumers, there are factors which affects the usage and acceptance of the consumers. It explains
+the perceived usefulness and the method of utilizing it in the daily lives (Venkatesh & Davis, 2000)
+The model has been described by two wings, perceived ease of use and perceived usefulness. In
+1985, Fred Davis has suggested this model examining the role of the mediating variables of
+perceived ease of use and perceived usefulness (Davis, 1985). Researches have contributed
+understandings of this model process outcomes. There are factors which are clustered which aids
+the analysis to be happened (Legris, Ingham, & Collerette, 2003). In our study, we have shown the
+perceived usefulness and perceived ease of use of sharing ride or shared economy with many
+hypotheses and integration of models which carries many factors.
+Perceived ease of use means the degree to which a particular system would be free from effort.
+This means that if the system includes less efforts then it will be easily adaptable by the customers
+and work performance goes up due to this, it will have a positive effect on the intention of the
+behavior and vice versa. For example: If the Uber service turns out to be a very easy digital object
+(app wise) then it decreases the effort of critical understandings to every type of end user. It brings
+the technology and people closer which ultimately increasing the overall standard of living of a
+nation. Adoption of any technological device or service has derived from the Technology
+Acceptance Model (TAM). According to the previous studies, the relationship has remained
+contradictory. If people feel like the usage of the technology has made the lives easier and better
+then they will be willing to spend money on this and increase the value of their activities (Ramayah
+& Ignatius, 2005). However, an internet purchaser has to develop the tendency of usefulness of
+purchase. The purchaser will consider the perceived ease of use according to the benefits that he
+or she is getting after purchasing online by using technology (Ramayah & Ignatius, 2005). On the
+other hand, some people tend to stick to the traditional service or activities (Li et al., 2014) due to
+lack of interest or may for due to some other reasons so, the perceived ease of use affects negatively
+in this case (Wallsten, 2015). Overall, the experience describes the relation better whether it is
+positive or negative towards the behavioral intentional.
+Similarly, Perceived Usefulness means the degree to which a particular system enhances the
+performance of a work (Davis, 1993). This means that if the quality of the performance increases
+21
+due to the use of a particular system, it will have a positive effect on the intention of the behavior.
+For example: If the Uber service turns out to be a very efficient acceleration of time management,
+cost management and healthy way of moving towards the destinations, people would love to accept
+the ride sharing technology. Perceived usefulness actually gets affected by external variables also
+(Satama, 2014). For example: Drunk people after the party are not allowed to drive so, in that case
+they do need someone to drive home (someone who can be trusted and according to the consumer’s
+choice). Even if they do not want to adapt the new technology but in this case, they are bound to
+take help from ride sharing. In TAM model, perceived usefulness has a strong prediction of the
+technology to be adapted by the end users (Satama, 2014). The usefulness of a new technology
+prone to throw a very good vibe to the end users and it ultimately affects positively on the
+behavioral intention (Amaro & Duarte, 2013).
+Geert Hofstede has described the cross-cultural communication by theory of framework and Icek
+Ajzen has fabricated the concept where the predictive power of the theory has been improved by
+the actions of the perceived behavioral control. We have discussed about both of these concepts in
+the previous chapter and now, we have integrated these two and developed our own model where
+we have come up with some hypothesis and its branches.
+Societies which have high power distance among each other are reluctant to adopt digitalization.
+Low power distance societies are more independent and as the power is distributed more equally
+(Yıldırım, Arslan, & Barutçu, 2016). According to (Straub et al., 1997), technology acceptance is
+lower in high power distance culture compared to the low power distance society. In other words,
+we can say that there is a negative correlation with the usage of internet and consumers where the
+power distance is way too high (Gong, Li, & Stump, 2007). That means power distance is a very
+powerful determinant for ride sharing attitudes. For example: Consumers, who are not independent
+enough will not be sound towards using the technology and shared economy which ultimately
+gives the adverse effect in the attitude towards the behavioral intention. May be the upper class
+people have the access towards it but not below the standard class people so, the whole society
+cannot be counted by the minor group of people.In fact, there are many people in the third world
+country who even have never heard about the ride sharing even if they heard, they did not pay
+attention to it or even if the paid attention, they are pretty much confused whether to grab this
+22
+facility or not as the reference from the peer group is not something positive or little positive. On
+the basis of above discussion, following hypothesis has been derived:
+Hypothesis 1a: Power distance moderates the relationship between attitude and behavioral
+intention.
+According to the previous discussion in the previous chapter, we have come to know that
+uncertainty avoidance is the society’s tolerance for the ambiguity. Therefore, in high uncertainty
+avoidance society, people are more prone to deal face to face and vice versa in low uncertainty
+avoidance society (Ngai et al., 2007). As there is a trust issue and risk is included, people feel
+reluctant to adapt the new technology (Choi & Geistfeld, 2004) and this has a negative effect on
+the attitude towards the behavioral intention. People have a negative evaluation on the new
+technology and ride sharing becomes a negative digital commodity for the consumers. People in
+low uncertainty avoidance are more liable towards the app and it is vice versa in the high
+uncertainty avoidance society so, here the consumers are more relaxed with the traditional taxi
+services or to the public transportations. No matter the drivers of Uber has the information of the
+consumers if they have been ordered online by using app, but the consumers are never sure about
+the attitude or ethics or morality of the driver in ride sharing. So, it has a negative effect on the
+attitude towards the behavioral intention of Uber (Yıldırım et al., 2016). So, based on above, we
+hypothesize that:
+Hypothesis 1b: Uncertainty avoidance affects the relationship between attitude and behavioral
+intention.
+Hofstede (2011) defines the individualist side of a cultures in which the ties between individuals
+are loose: everyone is expected to look after him/herself and his/her immediate family (previously
+explained). Uber is more popular in in the individualistic society rather in the collectivist society,
+public transports are prioritized more as it thinks about the society a whole (Agyeman, McLaren,
+& Schaefer-Borrego, 2013). Uber facilities are mostly consumed to increase owns performance,
+owns mobility and owns comfort which truly goes with the “his- his – whose –whose”
+characteristics. AirBnb or Uber are more popular in this kind of society as these people are more
+likely in bartering, swapping and skill sharing (Agyeman et al., 2013). Therefore, it promotes
+23
+positive attitudes towards the behavioral intention of any new technology and adapts it more
+quickly. According to the empirical evidence (Ardichvili et al., 2006), collectivist economies do
+not welcome technology cordially or more often as they think it will disconnect people from having
+“one to one” communication (Zakour, 2004). May be that is why it is very often to use Uber service
+in mixed economies and market economies rather than the communist economies. The hypothesis
+has been discussed so far in below:
+Hypothesis 1c: Individualism moderates the relationship between attitude and behavioral
+intention.
+Masculinity society emphasizes on the accomplishment of the work rather feminist society focuses
+more on the human relationship (Pavlou & Chai, 2002). For the accomplishment of any work done,
+people can go beyond the face to face communication and masculine society is also considered as
+assertive society too. Technology adaption is higher in this kind of society where the forceful
+personality exists. They tend to be more technological as they do not care for human interaction
+much. Uber usage and adaption are higher in assertive society. Due to work accomplishment,
+people tend to be on time and reduce the hassle of the transportation problem (Manjoo, 2014). It
+is far easy to use the app in the phone and share the ride rather than going for the traditional taxi
+service or maintaining long queue in the public transportation. People in this society are more
+willing to match their own needs so, in Uber or in any other online shopping, providing basic
+information is accepted. Uber driver are tailored according to the needs of the customers and all
+these are done by using the app in the phone (Zhang et al., 2016).We posit that:
+Hypothesis 1d: Masculine or assertive society moderates the relationship between attitude
+towards behavior and behavioral intention
+Future orientation focuses more on the future planning in the society. The success of new
+information system gets disturbed if there is too much lack of user acceptance (Davis, 1993)
+Societies which are not organized properly for the future and more towards the success in the short
+term, they will tend to use the technology and adapt those cordially because they want success in
+anyhow and to be successful in the short period of time. Success cannot come quickly without the
+24
+technology adoption so, the societies have positive attitudes towards the behavioral intention
+(Anbari et al., 2003). Long term oriented societies do have positive influence on the attitude
+towards the behavioral intention but not as vigorous as the short term oriented as they have time
+to allocate resources and utilize those efficiently (Anbari et al., 2003). Therefore, the society is
+much more organized and efficient rather than non-future oriented society. There are more chances
+of lacking in the productivity. So, Uber acceptance is more in non-future oriented society and
+include much risk than the other. We suggest that:
+Hypothesis 1e: Long term orientation moderates the relationship between attitude and
+behavioral intention.
+Subjective norm is defined as the pressure of the society to perform or not performing the behavior.
+The technology has been adapted by the people differently which varied from culture to culture
+(Zakour, 2004) In low power distance, technology adaption is more as people do not need to rely
+on others pressure whether to accept the technology or not. So, social norms are less powerful in
+low power distance society. Behavioral intention is positive in this society. Due to this positivity,
+we cannot directly say that low power distance society does not support the behavioral intention
+of technology due to social norms rather it moderates (Zakour, 2004). For example: People cannot
+deny the order for the superior in the high-power distance society so, here the adaptation of the
+technology by superior people also make the inferior people use it. Whether they like it or not,
+they need to follow the instructions of the upper-class people. Therefore, the power distance
+moderates the relation between the behavioral intention and social norms. It acts as the moderating
+variable. We hypothesize:
+Hypothesis 2a: Power distance moderates the relationship between the social norms and
+behavioral intention.
+In the internet era, people communicate with each other via online and it is certainly an innovative
+way of communication. For online communication, people use some of their personal information
+which is mandatory (Pookulangara & Koesler, 2011). Although there are cultural differences but
+at the end of the day, it is all about getting connected online and it forms sharing information.
+Countries where the uncertainty avoidance is higher, they are always too much flexible in their
+word of mouth (Liu, Furrer, & Sudharshan, 2001). For example: if they get superior service via
+25
+online purchasing, they enthusiastically spread recommendations to other people or in peer group
+and it happens totally opposite if by chance they do not receive the service as they expected. Same
+goes with the Uber service, group of people who found it useful have recommended highly for ride
+sharing and unfortunately who have suffered any loss both major and minor have exaggerated the
+evaluation negatively. It is true that Uber do have some bad events in its career life, but high
+uncertainty avoidance group has made it a lot bigger than the actual. So, social norms are very
+tentative towards the behavioral intention in this case. Therefore, a possible hypothesis can be as
+follow:
+Hypothesis 2b: Relationship between social norms and behavioral intention is affected by
+uncertainty avoidance.
+Subjective norm is defined as the societal norm and social influence (Anbari et al., 2003; Pavlou
+& Chai, 2002). Individuals are formed into clusters or groups and create social norms regarding
+the technology. For example: Uber adoption or any kind of ride sharing becomes negatively
+criticized in the society because of the exaggeration if it cannot fulfill the desired need of any
+particular customer. The remarks spread very fast due to the “negative word of mouth”. They tend
+to make their judgment and which depends on the norms of the groups (Hofstede & Bond, 1988).
+In collectivist society, there are obligations to the group but in the individualistic society, people
+are self-sufficient (Hofstede, 1980). Therefore, when a group of people fabricate or exaggerate the
+service regarding the technology adaption, it definitely does not provide the strong positive relation
+between the subjective norm and the intention of the behavior. Subjective norms have the greater
+or bigger importance in the collectivist societies rather than the individualistic society in the need
+of the group (Triandis, McCusker, & Hui, 1990). So, the following hypothesis can be postulated:
+Hypothesis 2c: The relationship between societal norms and behavioral intention is moderated
+by individualistic or collectivist factors.
+Men are more strong towards the attitude of the technology but in the other hand, women are more
+strong towards the subjective norm and it affects the behavioral intention (Venkatesh, Morris, &
+Ackerman, 2000). For example: Uber or ride sharing can be easily used by men and there is less
+tension about being harassed and even if there is harassment, it will affect women much more
+compared to men. Women are more oppressed by the subjective norms or social norms in the
+26
+society while adapting any technology usage especially ride sharing service. This kind of pressure
+is called “felt pressure from others” (Bandyopadhyay & Fraccastoro, 2007). This pressure is
+general, and it influences the net use. It has a high predictive power but has a weak correlation
+with the predictors. So, the behavioral intention is more influenced by the societal norms. General
+social pressure on the individual is influenced by the differences of culture that means it varies
+from culture to culture (Bandyopadhyay & Fraccastoro, 2007).
+Perceived behavioral control refers to the perceived ease or difficulty of performing the behavior
+and it is assumed to reflect past experience as well as anticipated impediments and obstacles. As a
+general rule, the greater the perceived behavioral control, the stronger should be an individual’s
+intention to perform the behavior under consideration (Ajzen, 1991). Two components of
+perceived behavioral control, self-efficacy (individual judgments of a person's capabilities to
+perform a behavior and controllability (individual judgments about the availability of resources
+and opportunities to perform the behavior) have been discussed by Pavlou and Fygenson (2006).
+Perceptions of an individual regarding his control on the action can lead to possible occurrence of
+the outcome. A person who has a pessimistic view of his control over the behavior may never try
+and may thus fail to find out that he was wrong. As a result, perceived control will usually correlate
+with behavioral performance. Again, however, this correlation will tend to be strong only when
+perceived control corresponds reasonably well to actual control (Ajzen, 1985). Therefore,
+following hypothesis is posit:
+Hypothesis 2d: Relationship between subjective norms and behavioral intention is influenced by
+masculinity.
+Subjective norm will not affect the user’s intention as the future orientation focuses on the longterm planning is a powerful determinant of the user acceptance in the society which plans for the
+long-term benefits. The technology adaption is commonly seen in this society and it is free from
+the typical norm of the society. It instructs or guides the managers of a society to reduce the underutilization of the computer technology (Bandyopadhyay & Fraccastoro, 2007). From the previous
+studies, it has been examined that the future oriented societies or cultures motivates the use of
+web based information system as the information are more flawless and provides a better outcome
+(Mun & Hwang, 2003). The societal pressure which is also called to be subjective norm, does
+27
+spread good vibes to the behavioral intention of the sharing economy and technology acceptance.
+So, we present the following hypothesis:
+Hypothesis 2e: Future orientation influences the relationship between subjective norms and
+behavioral intention.
+Power Distance has been defined as the extent to which the less powerful members of
+organizations and institutions (like the family) accept and expect that power is distributed
+unequally (Hofstede, 2011). Power distance is important factors towards adoption of a technology.
+People tend to make opinions based on attitude of their leaders who are supposed to have greater
+power. According to Moon, Chadee, and Tikoo (2008), in high power distance societies, status
+que and age are very important and people tend to be less innovative. In the light of above
+discussed literature, we can see that in high power distance societies people tend to be affected by
+elders or seniors and therefore would be unable to show full control of behavior on any decision.
+Therefore, we can posit the following hypothesis:
+Hypothesis 3a: Perceived behavioral control towards buying behavior is moderated by high
+power distance societies.
+In high uncertainty avoidance culture, consumers are resistant to change from established patterns
+and will be focused on risk avoidance and reduction and according to Hofstede, in countries where
+uncertainty avoidance is high, a feeling of "what is different is dangerous" prevail (Steenkamp,
+Hofstede, & Wedel, 1999). Uncertainty avoidance is “related to anxiety, need for security and
+dependence upon experts” (Ford, Connelly, & Meister, 2003). We can say that self-efficacy in
+perceived behavioral control is less in high uncertain avoidance societies because people avoid
+taking risks and are dependent upon others for security. So, the following hypothesis has been
+derived:
+Hypothesis 3b: Perceived behavioral control towards buying intention is affected in high
+uncertain avoidance societies.
+28
+The third cultural dimension is individualism vs collectivism. In individualistic societies people
+are focused on personal needs while collectivist societies are more networked and combined
+through group needs. As discussed by Steenkamp et al. (1999), Collectivistic cultures are
+conformity oriented and show a higher degree of group behavior and concern to promote their
+continued existence, whereas people in individualistic societies are emotionally more detached
+from in-groups and place their personal goals, motivations, and desires ahead of those of the ingroup (Kagitcibasi 1997). For this we can come up with a notion that personal controlling
+behavioral is affected by groups in collectivist societies, therefore following hypothesis can be
+deducted:
+Hypothesis 3c: Collectivist societies affect the relationship between perceived behavioral control
+and buying intention.
+Fourth dimension of culture is masculinity. As the literature studies earlier, we can see that
+masculinity shows the assertiveness and achievement. Popular view of this dimension is to view
+the masculine and feminine culture in terms of emphasis of competitiveness and material success
+versus nurturance and quality of life, rather than in terms of gender roles for the sexes (Ford et al.,
+2003). Achievement can be related to gaining access to latest discovery or invention as indicated.
+High masculinity reinforces the effect of high resultant self-enhancement. The converse is true for
+societies low in masculinity (high in femininity (Steenkamp et al., 1999). From the above
+argument, it is assumed that in masculine societies, perceived behavioral control tends to be higher
+in order to show assertiveness and achievement. Therefore, we hypothesize:
+Hypothesis 3d: Masculinity affects the relation between behavioral intentions towards purchase
+behavioral control
+Future orientation is another cultural dimension suggested by Hofstede. Long-term orientation
+cultures value virtues oriented toward future rewards, in particular perseverance and thrift. Shortterm orientation stands for the fostering of virtues related to the past and present, in particular,
+respect for tradition, preservation of “face” and fulfilling social obligations (Ford et al., 2003). A
+long-term orientation means that people feel free to put off making a decision until they are
+29
+comfortable with its ramifications. In essence, this gives such people more control over their
+actions (Pavlou & Chai, 2002). So, we can make following hypothesis:
+Hypothesis 3e: Relation between perceived behavioral control and buying intention in long-term
+orientation societies.
+Trust is the most important factor involved in any kind of relationship. The development of trust
+relies on the formation of a trustee’s expectations about the motives and behaviors of a trustee
+(Doney & Cannon, 1997). According to a survey conducted by First Advantage (2015),
+participation in sharing economy is bolstered when the trust is ensured (Kamal & Chen, 2016).
+Shared economy revolves around trust factor and lack of this factor can also cause failure of
+businesses. According to Dheepan, the sharing economy is here to stay but the wide participation
+in this service and its reach will solely be dictated by the trustworthiness of a stranger (Kamal &
+Chen, 2016). Mayer et al. defined trust as a behavioral one person based on his/her beliefs about
+the characteristics of another person. Based on this definition, they proposed a model of dyadic
+trust in organizational relationships that includes characteristics of both the trustor and trustee that
+influence the formation of trust (Kim, Ferrin, & Rao, 2008). Although the transactions through
+shared economy are conducted online, they are involved face to face interaction upon arrival (Ert,
+Fleischer, & Magen, 2016). Therefore, attributes of a seller or service provider are vital in shared
+economy. If a consumer finds that a supplier of a service possesses sufficient trust, he will be
+inclined towards buying the service. We suggest:
+Hypothesis 4: A consumer’s trust positively affects the behavioral intention towards purchase.
+Bauer (1960) introduced the concepts of risk and uncertainty in marketing when he observed
+“consumer behavior involves risk in the sense that any action of a consumer will produce
+consequences which he cannot anticipate with anything anticipating certainty, and some of which
+are likely to be unpleasant” (Quintal, Lee, & Soutar, 2010). Lee (2009) has discussed six risks
+which are performance risk, social risk, financial risk, privacy risk, time risk and physical risk.
+Traditional P2P marketplace involves only monetary risk whereas shared economy transactions
+involve other risks as well even when there are no monetary risks involved (Ert et al., 2016). In
+30
+case of Airbnb, there is risk involved of staying with a stranger which can be harmful at times. For
+example, an American was attacked by a dog of his host where he was living in a room got by
+Airbnb (Lieber, 2015). Drivers of Uber taxi can also pose threats to the riders. Such as privacy risk
+is very much talked in shared economy, either its Uber or Airbnb. As studied by Feeney and
+companies Uber (2015), drivers of Uber get access of some of personal information of riders and
+then they can contact them through social media which travelers consider an unethical behavior.
+So, these examples portray that riders are vulnerable to service providers and that any risk
+associated with these services can affect the buying intention of a consumer. We post that:
+Hypothesis 5: Higher the risk associated with the service, lower will be the consumer’s intention
+to purchase.
+31
+CHAPTER 4: RESEARCH METHODOLOGY
+4.1 Introduction
+The overall research model presented by us has 17 hypotheses in total and all of hose have been
+well described in previous chapters. This chapter will talk about the empirical settings, data
+collections, philosophical positions, geographical positions and finally the measurement of the
+variables. In this chapter, procedures of the sample measurement and collection of data are
+discussed by the authors.
+4.2 Philosophical Position
+All research is conducted on the basis of some assumptions or hypotheses. To conduct a qualitative
+research, it is necessary to know the hidden the assumptions (Myers, 1997). Qualitative is not like
+interpretive, though these have various common elements. Interpretative research is the
+understanding of social reality and on the other hand, qualitative research is gathering nonnumerical data. The research rather depends on the philosophical assumptions of the researchers.
+It is shown in the graph below:
+Figure 4. 1: Underlying Philosophical Assumptions
+Positivists claim that reality can be described by measurable properties which are not dependent
+on researcher. Interpretive researchers claim that reality can be accessed through social
+32
+constructions i.e. language and critical researchers claim reality is historically constituted and it is
+reproduced by people over time (Myers, 1997).
+The collections of survey questionnaire are quantitative which aids to predict the behavior of the
+consumers about the ride sharing. Quantitative observations provide the results of counts,
+frequencies or percentages. This observation also includes time-interval sampling (Johnson &
+Christensen, 2008). Our study has been established on the basis of Theory of Planned Behavior
+and we have used both the qualitative and quantitative methods. Our research is both qualitative
+and quantitative.
+4.3 Research Design
+Quantitative research includes observation, experiment and survey. The survey is done by the
+researchers to know about the experience of the consumer’s regarding the usage of product or
+service. Customers have been asked simple questions in the survey to get a clear and very specific
+views about the product or service. Quantitative methods are built up or from the evaluation or
+results of the statistically proven data. The research design of this study includes questions to the
+general customers of Uber in Bangladesh and in Pakistan.
+4.4 Questionnaire Design
+The aim or purpose of the study is to understand or measure the factors which influence the
+adoption of non-traditional mode of transport in a developing country. So, for this measurement,
+we had to prepare questions that directly asks about the factors of our research model explained in
+chapter 3. To prepare the questions, we had to go through many articles and followed the patterns
+of items to measure the scales. Each of the question is measured on a Likert scale from 1 to 7. In
+the research, we had simple questions which were easy to answer, and we also have used both
+open and close ended questions. In the appendix, we have disclosed the questions chosen for this
+master’s study.
+33
+4.5 Data Collection
+Primary and secondary methods are used to collect the data for a particular project. Primary data
+is basically the first-hand data and this data is collected for the basic research problem. Whenever
+any new primary data is collected, existing store of social knowledge is being updated (Hox &
+Boeije, 2005). On the other hand, when we collect the materials used by the other researchers is
+known as secondary data (Hox & Boeije, 2005). The more authenticated data is primary more than
+secondary and it is less time consuming too. In this study, we have used both the primary and
+secondary data. For primary data, we have collected the survey from every class of Uber customer
+and for secondary data, we have searched for most recent and valid articles regarding ride sharing,
+shared economy and digitalization.
+4.6 Survey and Procedure
+As per the topic and geographical location, the survey was conducted in Bangladesh and Pakistan.
+The two authors of this study come from these two South Asian Countries so, it was easier to
+communicate in local language with the general people or customer though the questionnaire was
+in English language. So, while knowing about the satisfaction of ride sharing in Uber was easy to
+access and questions were based on these countries’ cultures. The respondents were only citizen
+of either Bangladesh or Pakistan, but the residence was free of choice and not a mandatory option.
+As we have posted the questionnaire online and shared via social media, it was quite easy to access
+the answers or collect the respondents. They have dedicated their personal time and answered the
+survey. Few of them had “one-to-one” conversation with the author of this study after finishing
+the survey to make it more clearly about the satisfaction of Uber ride. The questionnaire contained
+many questions and it was long to finish but was very easy to understand. In total, we have
+collected 145 respondents as there was a day limit to collect the surveys. The authors of this survey
+had direct communication and knocked all the respondents directly via e-mails and social medias
+to finish up the survey. Near about 55 people did simply ignore the survey and did not cooperate
+so, the survey could not fulfill its targeted number of respondents.
+34
+4.7 Measurements of the Constructs
+In this chapter, the questions have been presented or shown on which constructs have been
+prepared. After studying, we got to know that Likert-type scale can also refer to summated scales
+as specific items assess between the total high and low scores (Jain & Kothari, 2004). Summated
+scales actually communicate between the favorability and un-favorability of attitudes which have
+been requested to the participants to respond in the questionnaire. A number of numeric scores are
+given to the respondents which denote the favorability or un-favorability of the attitudes. The
+summation is then required for the overall explanation of the behavioral intention by the
+customers(Jain & Kothari, 2004).
+Our overall model is the integration of three different research models as discussed in chapter 3.
+From our integrated model, based on the concept, we have chosen 7 independent variables,
+dependent variables which are opposite of the independent variable and control variables which
+are the experimental elements and are constant. Each of the variables are clearly discussed below
+in the sub points.
+4.7.1 Dependent Variable
+Behavioral Intention: According to Ajzen (1991), behavioral intention is being driven by other
+variables (independent). As discussed earlier, we have used the factors of Hofstede as the
+moderating variables. Therefore, we can see that the behavioral intention is evaluated by the
+customers whether they are in favour or not in favvour of using a particular product or service.
+The construction, source, original items and the adapted questions of behavioral intention from
+(AGU, Enugu, & Onuka, 2016) and (Yu, 2012) shown below in Table 4.1:
+Construct Source Original Items Adapted Items Code
+Behavioral
+Intention
+1.(AGU et
+al., 2016)
+2.(Yu,
+2012)
+1. I prefer to use
+mobile banking?
+1. I prefer to use
+Uber?
+BI1
+2. I intend to use
+mobile banking?
+2. I intend to use
+Uber?
+BI2
+35
+4.7.2 Independent Variables
+• Attitude Towards Behavior (ATB): According to Mathieson (1991), the intention of the
+behavior is dependent on the attitude of the people towards a particular product or service.
+According to George (2004), any attitude towards the specific or targeted behavior drives
+the intention of that particular product or service. The construction, source, original items
+and the adapted questions of attitude towards behavior from (Puriwat & Tripopsakul, 2017)
+shown below in Table 4.2:
+3. I would use
+mobile banking?
+3. I would use Uber? BI3
+4. Utilization of
+mobile banking has
+a positive impact on
+the services
+standard of banks?
+4. Utilization of Uber
+has a positive impact
+on the services
+standard of
+transportations?
+BI4
+Construct Source Original Items Adapted Items Code
+Attitude
+Towards
+Behaviour
+(Puriwat &
+Tripopsakul,
+2017)
+1. A mobile phone
+would be useful to
+me for banking?
+1. A mobile phone
+would be useful to me
+for transport?
+ATB1
+2. I can avoid long
+queues at the
+banks?
+2. I can avoid long
+queues at the traffic?
+ATB2
+3. I must find Mbanking useful in
+my life?
+3. I find Uber useful
+in my life?
+ATB3
+4. Using Mbanking must
+improve my
+banking
+performance?
+4. Using Uber can
+improve my time
+management?
+ATB4
+36
+• Perceived Usefulness (PU): (Davis, 1993), explained that perceived usefulness enhances
+the performance of the work. It motivates the behavioral intention of the customers either
+positive or negative. We adopted question items for perceived usefulness from (GlaveeGeo et al., 2017) as shown below in Table 4.3:
+• Perceived Ease of Use (PEU): means the degree to which a particular system would be
+free from effort. If customers are happy enough or satisfied regarding a usage of any
+product or service so, it affects the behavioral intention. We measured perceived ease of
+use by adapting items from Glavee-Geo et al (2017) as shown below Table 4.4:
+•
+Construct Source Original Items Adapted Items Code
+Perceived
+Usefulness
+(GlaveeGeo et al.,
+2017)
+1. I think mbanking is useful?
+1. I think Uber is
+useful?
+PU1
+2. I think that using
+m-banking would
+make it easier for
+me to carry out my
+tasks?
+2. I think using Uber
+makes my
+transportation easier?
+PU2
+3. Overall, I think
+using m-banking is
+advantageous?
+3. Overall, I think
+using ride sharing is
+advantageous?
+PU3
+4. I think that using
+m-banking would
+enable me to
+accomplish my
+tasks more quickly
+4. I think that using
+Uber would enable me
+to travel quickly?
+PU4
+37
+Construct Source Original Items Adapted Items Code
+Perceived
+Ease of
+Use
+(GlaveeGeo et al.,
+2017)
+1. Learning to
+operate m-banking
+would be easy for
+me?
+1. Learning to
+operate Uber app
+would be easy for
+me?
+PEU1
+2. I would find mbanking to be
+flexible to interact
+with?
+2. I would find Uber
+app to be flexible to
+interact with?
+PEU2
+3. I would find mbanking easy to
+use?
+3. I would find Uber
+easy to use?
+PEU3
+4. It would be easy
+for me to become
+skilled at using
+M-banking?
+4. It would be easy
+for me to be expert in
+using Uber app?
+PEU4
+• Subjective Norm (SN): The usage intention is driven by the societal culture or norms and
+it varies from culture to culture (Bandyopadhyay & Fraccastoro, 2007). Subjective norm is
+powerful to maintain the behavioral intention as the acceptance or the rejection first comes
+from the society especially in South East Asia. We measured subjective norm by adapting
+item from (Puriwat & Tripopsakul, 2017) and (Glavee-Geo et al. 2017) as shown below
+Table 4.5:
+Construct Source Original Items Adapted Items Code
+Subjective
+Norm
+1.(Puriwat
+&
+1. People who
+influence my
+behavior think that
+1. People who
+influence my
+SN1
+38
+Tripopsakul,
+2017)
+2.(GlaveeGeo et al.,
+2017)
+I should use mbanking?
+behavior think that I
+should use Uber?
+2. People who are
+important to me
+think that I should
+use m-banking?
+2. People who are
+important to me
+think that I should
+use Uber?
+SN2
+3. People whose
+opinions are
+valued by me
+would prefer that I
+use m-banking?
+3. People whose
+opinions are valued
+by me would prefer
+that I use Uber?
+SN3
+4. My friends and
+or family use mbanking?
+4. My friends and or
+family use Uber?
+SN4
+• Perceived Behavioral Control (PBC): This variable has the positive or negative effect on
+the dependent variable, behavioral intention (Ajzen, 1991). Pavlou and Fygenson (2006)
+discussed that individual’s capabilities are truly important in behavioral control for
+affecting the behavioral intention. We measured perceived behavioral control by adapting
+items from (Makongoro, 2014) as shown below Table 4.6:
+Construct Source Original Items Adapted Items Code
+Perceived
+Behavioral
+Control
+(Makongoro,
+2014)
+1. M-banking Is
+convenient
+because I don’t
+have to go to a
+branch?
+1. Uber Is convenient
+because I don’t have
+to go to the roadside
+to find a taxi?
+PBC1
+2. M-banking will
+give me greater
+control over my
+2. Uber app will give
+me greater control
+over my
+PBC2
+39
+banking
+transactions?
+transportation
+transactions?
+3. I think
+interaction with
+M-banking does
+not require a lot of
+mental effort?
+3. I think interaction
+with Uber app does
+not require a lot of
+mental effort?
+PBC3
+4. M-banking must
+allow me to use
+varied languages?
+4. The app allows me
+to use different
+languages?
+PBC4
+• Trust (T): People need to have trust to purchase any product or service so, it is dictated by
+the variable, trust (Kamal & Chen, 2016). The development of the trust makes the
+behavioral intention work (Doney & Cannon, 1997). The construction, source, original
+items and the adapted questions from Glavee-Geo et al. (2017) shown below in Table 4.7:
+Construct Source Original Items Adapted Items Code
+Trust (GlaveeGeo et al.,
+2017)
+1. I am Afraid of
+The Inherent Fraud
+and Hacking
+Associated With
+M-banking?
+1. I am not afraid of
+The Inherent Fraud
+and Hacking
+Associated with
+Uber?
+T1
+2. I am Worried
+Other People May
+Access My
+account When
+using M-banking?
+2. I am not Worried
+Other People May
+Access My account
+When using Uber?
+T2
+3. It is Risky To
+Store Banking Info
+On A mobile
+Device?
+3. It is not Risky To
+share profile Info
+with Uber driver?
+T3
+40
+4. I do Not Trust
+Using Phone For
+Banking.
+4. I Trust Using
+Phone For
+transactions in Uber?
+T4
+• Risk (R): People think that something unpleasant may happen while using the product or
+service (Quintal et al., 2010). That is why, we have considered risk as an independent
+variable. Therefore, these all do affect the intention of customers towards usage the product
+or service. The construction, source, original items and the adapted questions for risk from
+Glavee-Geo et al. (2017) and (Shaikh, Glavee-Geo, & Karjaluoto, 2018) shown below in
+Table 4.8:
+•
+Construct Source Original Items Adapted Items Code
+Risk (GlaveeGeo et al.,
+2017)
+(Shaikh et
+al., 2018)
+1. The decision of
+whether to use mbanking services is
+risky?
+1. The decision of
+using Uber is less
+risky?
+R1
+2. Using mbanking services
+puts my privacy at
+risk?
+2. Sharing
+information with
+Uber driver do not
+put my privacy at
+risk?
+R2
+3. In general, I
+believe using an
+m-banking service
+is risky?
+3. In general, I
+believe using Uber
+less risky?
+R3
+4. Compared with
+other banking
+channels, such as
+the internet, m4. Compared with
+taxi, Uber has less
+uncertainties?
+R4
+41
+banking has more
+uncertainties?
+4.7.3 Moderating Variables
+According to Lazarsfeld and Rosenberg, moderator variables can be considered a subset of a class
+of variables termed, in the social sciences, "test" or specification variables. A specification variable
+is one which specifies the form and/or magnitude of the relationship between a predictor and a
+criterion variable (Sharma, Durand, & Gur-Arie, 1981).
+• Power Distance (PD): Power distance shows the degree of inequality among people which
+the people of a population considers normal (Straub et al., 1997). Power distance,
+measured by adapting questions from (Dash & Guin) shown below on Table 4.9:
+Construct Source Original Items Adapted Items Code
+Power Distance
+1. (Dash &
+Guin)
+1. People in
+higher
+positions
+should avoid
+social
+interaction with
+people in lower
+positions?
+1. People in
+higher positions
+should avoid
+using Uber as it
+interacts with
+people in lower
+positions?
+PD1
+2. People in
+high positions
+should not ask
+opinions of
+people in lower
+positions?
+2. People in
+high positions
+should not ask
+opinions of
+people in lower
+positions?
+PD2
+3. People in
+higher
+positions
+should make
+most decisions
+without
+consulting
+3. People in
+higher positions
+should make
+decisions
+without
+consulting
+PD3
+42
+• Individualism (I): It shows the stature of people as individuals rather than being in groups.
+It will moderate the relationship between independent variables and dependent variable.
+Individualism, measured by adapting questions from (Heinz (2013) below in Table 4.10:
+Construct Source Original
+Items
+Adapted Items Code
+Individualism
+1. (Heinz, 2013)
+Questions were
+adapted from
+negative to
+positive.
+1.
+Technology
+controls too
+much of our
+world today?
+1. Technology controls
+too much of our daily
+life?
+IND1
+2. The use of
+technology is
+lowering our
+standard of
+living?
+2. The use of technology
+is easing our standard of
+living?
+IND2
+3.
+Technology
+controls too
+much of our
+world today?
+3. Uber controls too
+much of tailored ride
+service?
+IND3
+people in lower
+positions?
+people in lower
+positions?
+4. People in
+lower position
+should not
+disagree with
+decisions by
+people in
+higher
+positions?
+4. People in
+lower position
+should not
+disagree with
+decisions by
+people in higher
+positions?
+PD4
+43
+4.
+Technology
+is making the
+jobs done by
+humans less
+important?
+4. Technology is making
+the jobs done by humans
+easier?
+IND4
+• Masculinity (M): According to (Straub et al., 1997), masculinity is the degree to which
+value like assertiveness, performance, success and competition prevail among people of a
+culture over gentler values like the quality of life, maintaining warm personal
+relationship, service, care for the weak etc. Masculinity has been measure by adapting
+questions from (Heinz, 2013), shown below in Table 4.11:
+Construct Source Original Items Adapted Items Code
+Masculinity
+1. (Heinz, 2013) 1. Using
+technology is
+more important
+for men than
+for women?
+1. Using Uber
+is more
+important for
+men than for
+women?
+MAS1
+2. Using
+technology is
+more enjoyable
+for men than it
+is for women?
+2. Using Uber
+technology is
+more enjoyable
+for men than it
+is for women?
+MAS2
+3. Working
+with technology
+is more for
+women than for
+men?
+3. Using Uber
+is more for men
+than for
+women?
+MAS3
+4. Women can
+do just as well
+as men in
+learning about
+technology?
+4. Women can
+use Uber just as
+well as men?
+MAS4
+44
+• Long-Term Orientation (LTO): Long-term orientation focuses on looking at the future
+goals sacrificing or undermining short term objectives. Long term orientation has been
+measure by adapting questions from (AGU et al., 2016) shown below on Table 4.12:
+Construct Source Original Items Adapted Items Code
+Long-Term
+Orientation
+1. (AGU et al.,
+2016)
+1. Mobile
+banking services
+are highly
+efficient and
+have improved
+quality services
+delivery?
+1. Uber
+services are
+highly efficient
+in improved
+transport
+services?
+LTO1
+2. Mobile
+banking services
+increases
+customer loyalty
+and patronage?
+2. Uber service
+will increase
+my loyalty to
+Uber?
+LTO2
+3. Utilization of
+mobile banking
+has a positive
+impact on the
+services
+standard of
+banks?
+3. Utilization of
+Uber app has
+positive
+impacts on
+standards of
+ride sharing?
+LTO3
+4. Handset
+operability is a
+major challenge
+in conducting
+mobile banking?
+4. Uber is a
+great challenge
+for other
+transportations?
+LTO4
+• Uncertainty Avoidance (UA): This factor shows the ambiguity and uncertainty in a
+culture about the future events which may create uncomfortableness among people.
+Uncertainty avoidance has been measure by adapting questions from (Laukkanen, 2015)
+as shown on Table 4.13:
+45
+Construct Source Original Items Adapted Items Code
+Uncertainty
+Avoidance
+(Laukkanen,
+2015)
+1. I find it
+important to
+have
+instructions
+spelled out in
+detail so that I
+always know
+what I am
+expected to
+do?
+1. I find it
+important to
+have clear
+instructions so
+that I always
+know what I am
+expected to do?
+UA1
+2. In my
+opinion in is
+important to
+closely follow
+existing
+instructions
+and
+procedures?
+2. In my opinion
+it is important to
+closely follow
+instructions?
+UA2
+3. I find selfservice
+alternatives
+more pleasant
+than personal
+customer
+service?
+3. I find selfservice Uber
+alternatives
+more pleasant
+than waiting for
+taxi?
+UA3
+4. In my
+opinion, new
+technology is
+often too
+complicated to
+be useful?
+4. In my
+opinion, Uber is
+often too
+complicated to
+be useful?
+UA4
+46
+4.7.4 Control Variables
+• Age: We have put a blank on the questionnaire survey to write the age of the respondents
+• Sex: Either it is a man or a woman responding
+• Marital Status: Single, married, unmarried, divorced, widowed, other; options were in the
+survey.
+• Education: Primary, secondary, additional training, undergraduate, postgraduate or other;
+options were put in the survey for respondents.
+• Occupation: Student, unemployed, public or private employee, entrepreneur or other;
+alternatives were specified in the public survey of Uber.
+• Nationality: blank space was there as customers belong from Bangladesh and Pakistan.
+• Country of Residence: Customers can reside anywhere in the world but has to be citizen
+of Bangladesh and Pakistan so, we put the blank space to be written the answer.
+4.8 Summary
+The entire chapter discussed detail about the methodology. A presentation of survey questions was
+discussed, and we also tried to show how the survey was done and how it was implemented or
+collected.
+47
+CHAPTER 5: MEASUREMENT ASSESSMENT AND DATA
+VALIDATION
+5.1 Introduction
+Previous chapter, we have discussed about the research methodology. In this chapter,
+measurements of the variables are discussed and analyzed. Various issues have been focused such
+as we have discussed the descriptive analysis, factor analysis and reliability analysis. The data
+assessment and data inspection have been also done in this chapter and after focusing on the
+discussion of the constriction of the data, conclusion is being written.
+5.2 Descriptive Statistics Analysis and Data Examination
+5.2.1 Data Screening and Cleaning
+Before we start analyzing the data, it is too much essential to look or check for the errors so that
+we get near about perfect result after the analysis (Pallant, 2013). Mistakes are done while
+collecting single entries i.e. misspelling of any names or data (Rahm and Do 2000). Data screening
+and cleaning includes detecting the data and removing errors in the inconsistencies. This cleaning
+method is important or needed while integrating the heterogeneous data sources. The need for data
+cleansing increases when the multiple data sources are collected i.e. data warehousing (Rahm &
+Do, 2000). The major data problems can be solved by data cleansing. For screening of data, there
+are steps 1. Checking for errors, scores that are out of range, 2. Finding and correcting the error in
+data file, correcting or deleting the wrong figure from the file (Pallant, 2013).
+5.2.2 Descriptive Analysis of the Data
+When the cleaning and scrutinizing of the data has been done then comes the descriptive analysis.
+According to (Pallant, 2013), descriptive analysis describes characteristics of sample, check
+violation of the assumptions underlying the statistical questions and address specific research
+48
+quest5ions. The descriptive statistics include the mean, standard deviation, range of scores,
+skewness and kurtosis (Pallant, 2013).
+The statistics obtained by this analysis is utilized as the illustration of the sample too. The result
+of descriptive statistics of our research is shown below on the Table-5.1 and Appendix-1.
+Table 5. 1: Descriptive Statistics
+Items N Minimum Maximum Mean Std.
+Deviation
+Uncertainty Avoidance
+UA1 145 1 7 5.56 1.594
+UA2 145 1 7 5.74 1.439
+UA3 145 1 7 5.54 1.537
+UA4 145 1 7 3.37 1.670
+Power Distance
+PD1 145 1 7 2.03 1.507
+PD2 145 1 7 2.17 1.639
+PD3 145 1 7 2.27 1.591
+PD4 145 1 7 2.64 1.694
+Masculinity
+MAS1 145 1 7 2.19 1.491
+MAS2 145 1 7 2.44 1.558
+MAS3 145 1 7 2.74 1.657
+MAS4 145 1 7 5.60 1.835
+49
+Individualism
+IND1 145 1 7 5.63 1.495
+IND2 145 1 7 5.50 1.477
+IND3 145 1 7 4.63 1.476
+IND4 145 1 7 4.61 1.626
+Long-term Orientation
+LTO1 145 1 7 5.15 1.647
+LTO2 145 1 7 5.01 1.512
+LTO3 145 1 7 5.20 1.512
+LTO4 145 1 7 5.43 1.438
+Perceived Usefulness
+PU1 145 1 7 5.75 1.417
+PU2 145 1 7 5.66 1.400
+PU3 145 1 7 5.37 1.467
+PU4 145 2 7 5.42 1.521
+Perceived Ease of Use
+PEU1 145 1 7 5.41 1.597
+PEU2 145 1 7 5.33 1.559
+PEU3 145 1 7 5.51 1.582
+PEU4 145 1 7 5.31 1.614
+Attitude Towards Behavior
+ATB1 145 1 7 5.46 1.744
+50
+ATB2 145 1 7 4.77 1.756
+ATB3 145 1 7 5.34 1.605
+ATB4 145 1 7 5.27 1.741
+Subjective Norms
+SN1 145 1 7 4.38 1.505
+SN2 145 1 7 4.63 1.514
+SN3 145 1 7 4.63 1.490
+SN4 145 1 7 5.17 1.594
+Risk
+R1 145 1 7 4.59 1.742
+R2 145 1 7 4.07 1.727
+R3 145 1 7 4.70 1.564
+R4 145 1 7 5.14 1.484
+Perceived Behavioral Control
+PBC1 145 1 7 5.57 1.549
+PBC2 145 1 7 5.35 1.493
+PBC3 145 1 7 5.44 1.527
+PBC4 145 1 7 4.63 1.711
+Trust
+T1 145 1 7 3.93 1.678
+T2 145 1 7 3.86 1.813
+T3 145 1 7 3.74 1.759
+51
+T4 145 1 7 4.66 1.538
+Behavioral Intention
+BI1 145 1 7 5.02 1.548
+BI2 145 1 7 5.31 1.326
+BI3 145 2 7 5.48 1.281
+BI4 145 2 7 5.19 1.324
+In the above table, minimum value is 1 and maximum value is 7 except for two questions regarding
+‘Behavioral Intention’ and one question regarding ‘Perceived Usefulness’ where minimum value
+is 2. It shows the range and variety of answers of respondents. For all the items on Likert scale
+from 1-7, mean value ranges from 2.03 to 5.75 and standard deviation ranges from 1.281 to 1.83.
+According to (Pallant, 2013), skewness values provide indication of the symmetry of the
+distribution and kurtosis provides peakedness of the distribution. According to the rule, values of
+kurtosis is not more than 10 so it shows that there is no problem with data.
+Socio-demographic Information:
+The sample consists of 145 respondents from Bangladesh and Pakistan (Appendix-2). More than
+half of the respondents fall in the age group from 25 to 30 years. Almost 99% are below 45 years
+which show that relativity of data as Uber service is mostly used by students or people who are at
+their early stage of career. Male respondents are slightly more than the female respondents that is
+merely due to the Asian culture. Among the respondents, almost 50% are single and 47% are
+married. Education level of the respondents is quite high showing more than 98% of the sample is
+undergraduate. In terms occupation, there is a bit variation. 35% of the sample is students and same
+percentage is for private employees while 11% are public employees. 9% are entrepreneur and
+same number is of unemployed. This variation is good for the study as students mostly travel in
+form of groups to save some money and private employees are not getting paid much so either
+they share the ride or travel through public transport.
+52
+5.2.3 Factor Analysis of the Data
+To condense a large set of data into small, we use factor analysis. It is done by summarizing the
+underlying pattern of correlation i.e. grouping the closely related items (Pallant, 2013). This
+method allows the researchers to assemble the variables into factors (but it depends on the
+relationship among the variables we have). There are two types of factor analysis Exploratory
+Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA). EFA is used in the early stage
+of research often. On the other hand, VFA is a more sophisticated set of techniques to confirm
+specific hypothesis or theory (Costello & Osborne, 2005). Often, these two produce similar results
+but the approaches of the recommendation are different (Pallant, 2013). According to (Pallant,
+2013), to check the suitability of data, sample size has to be not less than 150 (our study contains
+160 samples) and the strength of the relation between variables. Table-5.2 and Appendix-3 shows
+the factor analysis (Rotated Component Matrix, KMO and Bartlett’s Test and Total Variance
+Explained) of the variables included in our research model:
+Table 5. 2: Factor Analysis
+Components Loading
+Uncertainty Avoidance
+I find it important to have clear instructions so that I always know
+what I am expected to
+UA1 0.564
+In my opinion it is important to closely follow instruction UA2 0.672
+I find self-service Uber alternatives more pleasant than waiting for
+taxi
+UA3 0.668
+Power Distance
+People in higher position should avoid using Uber as it makes
+them to interact with people in lower positions
+PD1 0.734
+People in high positions should not ask opinions of people in
+lower positions
+PD2 0.851
+53
+People in higher positions should make decisions without
+consulting people in lower positions
+PD3 0.796
+People in lower position should not disagree with decisions by
+people in higher positions
+PD4 0.848
+Masculinity
+Using Uber is more important for men than for women MAS1 0.804
+Using Uber technology is more enjoyable for men than it is for
+women
+MAS2 0.861
+Using Uber is more for women than for men MAS3 0.706
+Individualism
+The use of technology is easing our standard of living IND2 0.533
+Uber controls too much of tailored ride service IND3 0.816
+Long-term Orientation
+Uber services are highly efficient and provide an improved
+transport service
+LTO1 0.634
+Uber service will increase my loyalty to Uber LTO2 0.757
+Attitude Towards Behavior
+I find Uber useful in my life ATB3 0.840
+Using Uber can improve my time management ATB4 0.826
+Subjective Norms
+People who influence my behavior think that I should use Uber SN1 0.680
+People who are important to me think that I should use Uber SN2 0.759
+54
+People whose opinions are valued by me would prefer that I use
+Uber
+SN3 0.750
+Risk
+The decision of using Uber is less risky R1 0.746
+Sharing information with Uber driver do not put my privacy at risk R2 0.723
+In general, I believe using Uber less risky R3 0.844
+Compared with taxi, Uber has less uncertainties R4 0.648
+Perceived Behavioral Control
+Uber is convenient because I don’t have to go to the roadside to
+find a taxi
+PBC1 0.718
+Uber app will give me greater control over my transportation
+transactions
+PBC2 0.672
+Trust
+I am not afraid of The Inherent Fraud and Hacking Associated
+with Uber
+T1 0.762
+I am not Worried Other People May Access My account When
+using Uber
+T2 0.825
+It not is Risky to share profile Info with Uber driver T3 0.794
+I Trust Using Phone For transactions in Uber T4 0.620
+Behavioral Intention
+I prefer to use Uber BI1 0.852
+I intend to use Uber BI2 0.817
+I will use Uber BI3 0.790
+55
+Utilization of Uber has a positive impact on the services standard
+of transportations
+BI4 0.835
+Extraction method: Principal Component Analysis.
+Rotation Method: Varimax with Kaiser Normalization
+a. Rotation converged in 16...
+The factor analysis given in Table-5.2 is based on rotated component which is obtained through
+Varimax with Kaiser Normalization method. SPSS was run with 14 factors and it was converged
+with 16 iterations. There were some components which had loading less than 0.5 and were
+removed, therefore. After that 12 factors were included in the study.
+To verify the suitability of data set for factor analysis, two values were considered. First is the
+KMO value which is 0.895 in the study which is above the minimum threshold value of KMO that
+is 0.6. The other test to check the suitability of data is Barlett’s Test of Sphericity. Significant value
+should be 0.05 or less and, in this study the Barlett’s test is significant (p=.000). (Appendix-3.1).
+5.3 Reliability of Measurements
+Reliability is assessed by the scale’s stability on repeated measures. A scale is invalid if reliability
+demonstrates higher assurance of the validity (Smith & Albaum, 2012). According to (Smith &
+Albaum, 2012), an irregular scale can be an authentic scale. To represent the concept of interest,
+measurement is important. The reliability of scale indicates that how the data set is free from
+random errors. Test-retest reliability and internal consistency are two frequent indicators for the
+reliability of measurements.
+Test-retest is assessed to the same people in two different occasions and afterwards calculating the
+correlation of two scores found out. Reliability can be assessed as internal consistency. Internal
+consistency is the degree where items which make up scale are underlying in the same attribute
+i.e. extent to which items are hang together (Pallant, 2013). There are four types of measurement
+scale: ordinal, nominal, ratio and interval.
+According to (Nunnally, 1978), a minimum level of 0.7 while different levels of reliability are
+needed. Cronbach alpha is dependent on the number of items i.e. if items are less than 10 then the
+56
+alpha value can be very small so, it is then better to calculate the mean inter-item correlation and
+it ranges from 0.2 to 0.4 (Briggs & Cheek, 1986).
+Table-5.3 below and Appendix-4 show the reliabilities if the variables included in our research
+model.
+Table 5. 3: Reliability Analysis
+Constructs Items Number of Items Cronbach’s
+Alpha
+Uncertainty Avoidance UA 1,2,3 3 .787
+Power Distance PD 1,2,3,4 4 .858
+Masculinity MAS 1,2,3 3 .764
+Individualism IND 2,3 2 .752
+Long-term Orientation LTO 1,2 2 .892
+Attitude Towards Behavior ATB 3,4 2 .921
+Subjective Norms SN 1,2,3 3 .934
+Risk R 1,2,3,4 4 .856
+Perceived Behavioral Control PBC 1,2 2 .863
+Trust T 1,2,3,4 4 .871
+Behavioral Intention BI 1,2,3,4 4 .916
+According to the studies, values of Cronbach’s alpha above 0.7 are acceptable and above 0.8 are
+preferable. In this table two factors have value slightly less than 0.8 but greater than 0.7 and rest
+all are higher than 0.8 which show a good internal consistency in the data.
+57
+5.4 Validity
+Validity is one of the important scales of the measures. Only reliability is not enough, validity is
+also needed in order to reduce the measurement errors. Validity is the scale which actually
+measures what it is supposed to (Pallant, 2013).
+Our willingness to make the research more accurate and correct, validity is very much important
+which reliability alone cannot do (Streiner, Norman, & Cairney, 2015).
+Therefore, the measurement becomes valid and to do so, validity collects the empirical evidence.
+Validity makes the data near about perfect and correct according to the models used in the research
+(Hooper, Coughlan, & Mullen, 2008).
+(Pallant, 2013), discuss about Content validity which measures from the domain of content,
+criterion validity relates the scores and measurable criteria and construct validity tests the scale
+derived theoretically from hypothesis. We will talk about two measures of construct validity
+below, convergent validity and discriminant validity.
+5.4.1 Convergent Validity
+Convergent validity in this model is measured from the correlation matrix in the Factor Analysis
+by observing the smallest correlation within the factor and then checking its value and level of
+significance. The smallest value of correlation should be greater than 0.5 and it should be
+significant at .000. In the correlation matrix, all the smallest values of correlation within the same
+factors are significant.
+The other way of estimating convergent validity is through average loading factor. By looking at
+the rotated component matrix in the factor analysis we find that average loading factor is greater
+than 0.7 and all the loads of factors in a construct are distinctively on one component.
+Another way to estimate convergent validity is through Average Variance Extracted (AVE). AVE
+is calculated by summating the squared loadings of all items in one component and then diving the
+sum by the number of items. In this study factors are sharing higher common variance, proving
+convergent validity.
+58
+5.4.2 Discriminant Validity
+First basic way to measure discriminant validity is through correlation matrix approach. In this
+method we observe the minimum correlation value of a construct and then measure it against
+correlation of all items of another construct. If the correlation of the first construct is greater than
+all other correlation, then there is no violation and it proves that there is discriminant validity
+among all the constructs.
+Another good approach is to use Average Variance Extracted and Shared Variance test. AVE
+should be higher that the squared correlation between constructs. In the following table it is shown
+that AVE for a construct is greater than the squared correlation of those constructs. In the following
+Table-5.4 squared correlation has been calculated on the basis of correlation matrix of all factors.
+Table 5. 4: Squared Correlation
+Factors 1 2 3 4 5 7 8 9 10 11 12
+Behaviour Intention 1.000 0.189 0.001 0.004 0.158 0.149 0.202 0.168 0.094 0.202 0.178
+Uncertainty
+Avoidance 1.000 0.006 0.006 0.285 0.203 0.286 0.177 0.073 0.273 0.307
+Power Distance 1.000 0.139 0.001 0.021 0.001 0.014 0.057 0.002 0.000
+Masculinity 1.000 0.000 0.002 0.000 0.007 0.019 0.002 0.004
+Individualism 1.000 0.195 0.304 0.082 0.092 0.303 0.251
+Subjective Norms 1.000 0.400 0.192 0.215 0.260 0.343
+Perceived
+Behavioural Control 1.000 0.200 0.134 0.353 0.474
+Risk 1.000 0.313 0.200 0.191
+Trust 1.000 0.123 0.098
+Long-Term
+Orientation 0.000 1.000 0.379
+Attitude Towards
+Behaviour 1.000
+AVE 0.678 0.405 0.654 0.628 0.475 0.534 0.483 0.553 0.569 0.454 0.695
+For example, squared correlation between Behavioral Intention and Uncertainty Avoidance is
+0.189 and AVE for BI is 0.678 while for UA is 0.405 and both are greater than 0.189. Similarly,
+59
+after checking AVE for all constructs, it is proved that it is greater than square correlation among
+them and hence indicates discriminant validity.
+Summary
+In this chapter, data were assessed. The authors made descriptive statistics analysis and data
+inspection. In this chapter, the reliability and validity of measurements were analyzed. The
+reliability was assessed by author using the Cronbach’s alpha and validity was assessed by the
+means of the several items factors loadings and the Average Variance Extracted (AVE). Coming
+up on the following chapter, authors would like to show data analysis and the empirical findings
+of this research.
+60
+CHAPTER 6: DATA ANALYSIS AND EMPIRICAL FINDINGS
+6.1 Introduction
+Multiple regression analysis has been presented in this chapter by the authors based on the data
+analysis in the previous chapter. Exploration of the results of the importance of particular attributes
+will be there in the chapter of Uber in Bangladesh and Pakistan.
+6.2 The importance of Uber
+We have gathered total 145 respondents via our survey and all of them have used Uber as their
+shared transportation in both the countries Bangladesh and Pakistan. All the respondents were
+asked to rank each measuring questions from 1 till 7. “1” stands for completely disagree and “7’
+stands for completely agree in our survey questionnaire.
+Certainly, there have been other ride sharing (local) which were also preferred by many of the
+respondents so, Uber has earned both negative and positive feedbacks from general customers.
+Compared to Pakistani customers, Bangladeshi customers have responded more and it simply
+shows that Uber is more popular in Bangladesh than in Pakistan. The tables below will show the
+breakdown of importance of Uber in respective countries and also the responses about the usage
+of Uber.
+6.3 Model Estimation
+Ordinary Least Square (OLS) Regression Model has been followed for the estimation of the model.
+Model is described in form of following equation:
+𝐵𝐼 = 𝑏0 + 𝑏1
+(𝐴𝑇𝐵)(𝑃𝐷) + 𝑏2
+(𝐴𝑇𝐵)(𝑈𝐴) + 𝑏3
+(𝐴𝑇𝐵)(𝐼𝑁𝐷) + 𝑏4
+(𝐴𝑇𝐵)(𝑀𝐴𝑆)
++ 𝑏5
+(𝐴𝑇𝐵)(𝐿𝑇𝑂) + 𝑏6
+(𝑆𝑁)(𝑃𝐷) + 𝑏7
+(𝑆𝑁)(𝑈𝐴) + 𝑏8
+(𝑆𝑁)(𝐼𝑁𝐷)
++ 𝑏9
+(𝑆𝑁)(𝑀𝐴𝑆) + 𝑏10(𝑆𝑁)(𝐿𝑇𝑂) + 𝑏11(𝑃𝐵𝐶)(𝑃𝐷)
++ 𝑏12(𝑃𝐵𝐶)(𝑈𝐴) + 𝑏13(𝑃𝐵𝐶)(𝐼𝑁𝐷) + 𝑏14(𝑃𝐵𝐶)(𝑀𝐴𝑆)
++ 𝑏15(𝑃𝐵𝐶)(𝐿𝑇𝑂) + 𝑏16𝑇 + 𝑏17𝑅 + 𝑏18𝐺𝐸𝑁 + 𝑏19𝐸𝐷𝑈
++ 𝑏20𝑀𝑆𝑇𝐴𝑇𝑈𝑆 + 𝑏21𝑂𝐶𝐶𝑈𝑃 + 𝑏22𝑁𝐴𝑇 + 𝑏23𝐴𝐺𝐸 + ἐ
+61
+Table-6.1 below shows the variables and their symbols.
+Table 6. 1; Entrants of Model Estimation
+b0 Constant
+Dependent Variable
+BI Behavioral Intention
+Independent Variable
+ATB Attitude Towards Behavior
+PU Perceived Usefulness
+PEU Perceived Ease of Use
+SN Subjective Norm
+PBC Perceived Behavioral Control
+T Trust
+R Risk
+Moderating Variables
+PD Power Distance
+IND Individualism
+UA Uncertainty Avoidance
+LTO Long Term Orientation
+MAS Masculinity
+Control Variables
+AGE Natural log of age
+62
+GEN Gender (Female 0, Male 1)
+MSTATUS Marital Status
+EDU Education
+OCCU Occupation
+NAT Nationality (Pakistan 0, Bangladesh 1)
+ἐ Error term
+6.4 Result’s Estimation
+The regression model explains the relation between dependent variable and seven independent
+variables. Three of the independent variables are moderated by five moderating variables and
+hence these have been described as well. Except them, six control variables have been included
+along with one constant (b0) and error term.
+6.4.1 Correlation Matrix
+Correlation matrix has been presented in below table 6-2 and appendix 5-2. The correlation matrix
+consists of Behavioral Intention as dependent variable and others as independent variables
+including control variables and interaction effects of other independent variables. Perceived
+usefulness shows the maximum correlation with the dependent variable followed by attitude
+towards behavior and perceived behavioral control. Minimum correlation is between BI and Age
+log showing that age does not affect the dependent variable. Following tables show the correlation
+matrix:
+63
+Table 6. 2: Correlation Matrix
+Factor 1 2 3 4 5 6 7 8 9 10
+1 Behavior Intention 1.0000 *-0.17 -0.035 -0.067 -0.094 **0.23 -0.018 **0.44 **0.38 **0.44
+2
+Gender 1.0000 **-
+0.20
+-0.069 *0.17 0.0372 0.1380 -0.137 *-0.17 *-0.16
+3 Marital Status 1.0000 **0.23 0.1303 -0.12 **0.39 -0.087 0.0065 -0.069
+4
+Education 1.0000 0.0982 **-
+0.24
+**0.46 -0.059 **-
+0.17
+-0.099
+5
+Occupation 1.0000 -0.104 **0.22 -0.119 **-
+0.21
+**-
+0.22
+6
+Nationality 1.0000 **-
+0.23
+**0.23 0.1068 *0.17
+7 Agelog 1.0000 -0.133 -0.158 -0.131
+8 Attitude Towards Behavior 1.0000 **0.58 **0.73
+9 Subjective Norms 1.0000 **0.63
+10 Perceived Behavioral Control 1.0000
+11 Perceived Usefulness
+12 Perceived Ease of Use
+13 Risk
+14 Trust
+15 SN_CentXUA_Cent
+16 SN_CentXPD_Cent
+17 SN_CentXMas_Cent
+18 SN_CentXInd_Cent
+19 SN_CentXLTO_Cent
+20 PBC_CentXUA_Cent
+21 PBC_CentXPD_Cent
+22 PBC_CentXMas_Cent
+23 PBC_CentXInd_Cent
+24 PBC_CentXLTO_Cent
+25 AttitudeToward_Behav_CentXUA_Cent
+26 AttitudeToward_Behav_CentXPD_Cent
+27 AttitudeToward_Behav_CentXMas_Cent
+28 AttitudeToward_Behav_CentXInd_Cent
+29 AttitudeToward_Behav_CentXLTO_Cent
+64
+Factor 11 12 13 14 15 16 17 18 19 20
+1
+Behavior Intention **0.45 **0.41 **-
+0.41
+**0.30 **-
+0.22
+0.0238 -0.155 **-
+0.28
+**-
+0.31
+**-
+0.33
+2 Gender -0.139 -0.133 0.0413 0.0176 -0.048 0.1511 *0.19 0.0917 -0.025 0.0016
+3 Marital Status -0.052 0.0061 0.0216 -0.012 -0.030 0.0095 0.0037 0.0127 0.0076 -0.019
+4 Education 0.0205 -0.040 0.1127 -0.088 0.0006 0.0332 -0.026 0.0270 0.0258 -0.017
+5 Occupation -0.158 -0.135 0.0263 -0.090 0.0932 -0.100 0.1120 *0.16 0.0889 0.1286
+6
+Nationality *0.18 *0.19 -0.039 -0.016 -0.134 -0.065 -0.016 **-
+0.24
+*-0.16 -0.084
+7 Agelog 0.0100 -0.021 0.0808 -0.017 *-0.16 0.1149 *0.16 0.0068 -0.106 -0.109
+8
+Attitude Towards Behavior **0.78 **0.78 **-
+0.45
+**0.30 **-
+0.40
+-0.087 -0.158 **-
+0.40
+**-
+0.52
+*-0.48
+9
+Subjective Norms **0.58 **0.59 **-
+0.43
+**0.46 *-0.16 -0.110 **-
+0.22
+*-0.17 **-
+0.28
+**-
+0.34
+10
+Perceived Behavioral Control **0.67 **0.71 **-
+0.44
+**0.36 **-
+0.39
+-0.147 -0.149 **-
+0.39
+**-
+0.50
+**-
+0.42
+11
+Perceived Usefulness 1.0000 **0.80 **-
+0.40
+**0.32 **-
+0.48
+-0.046 -0.068 **-
+0.48
+**-
+0.52
+**-
+0.56
+12
+Perceived Ease of Use 1.0000 **-
+0.43
+**0.37 **-
+0.32
+-0.093 -0.084 **-
+0.38
+**-
+0.48
+**-
+0.41
+13
+Risk 1.0000 **-
+0.55
+**0.20 -0.068 0.1045 0.0997 *0.17 **0.33
+14 Trust 1.0000 -0.058 0.0266 -0.102 *-0.18 -0.123 *-0.16
+15 SN_CentXUA_Cent 1.0000 0.0602 -0.038 **0.62 **0.69 **0.87
+16 SN_CentXPD_Cent 1.0000 **0.36 0.1004 0.0168 0.0645
+17 SN_CentXMas_Cent 1.0000 0.0634 0.0028 0.1321
+18 SN_CentXInd_Cent 1.0000 **0.69 **0.58
+19 SN_CentXLTO_Cent 1.0000 **0.60
+20 PBC_CentXUA_Cent 1.0000
+21 PBC_CentXPD_Cent
+22 PBC_CentXMas_Cent
+23 PBC_CentXInd_Cent
+24 PBC_CentXLTO_Cent
+25 AttitudeToward_Behav_CentXUA_Cent
+26 AttitudeToward_Behav_CentXPD_Cent
+27 AttitudeToward_Behav_CentXMas_Cent
+28 AttitudeToward_Behav_CentXInd_Cent
+29 AttitudeToward_Behav_CentXLTO_Cent
+65
+ *P < 0.05 t-values less than 1.655 are significant at 0.05 one-tailed
+ **P < 0.05 t-values less than 1.976 are significant at 0.05 two-tailed
+***P < 0.01 t-values less than 2.61 are significant at 0.01 two-tailed
+Mean S. D Factor 21 22 23 24 25 26 27 28 29
+5.25 1.227
+1
+Behavior Intention -0.051 -0.130 **-
+0.38
+**-
+0.39
+**-0.29 -0.041 0.0312 **-
+0.35
+**-0.38
+2 Gender *0.19 **0.27 0.0760 0.0306 -0.046 **0.21 **0.26 0.0570 0.0102
+3 Marital Status -0.034 -0.007 0.0205 0.0370 0.0293 -0.120 -0.140 0.0438 -0.0651
+4 Education 0.0159 -0.033 -0.006 0.0103 0.0379 -0.011 -0.020 0.0599 0.0761
+5 Occupation -0.071 0.1387 0.1474 *0.16 0.1421 -0.086 -0.015 0.1565 0.1092
+6
+Nationality -0.051 0.0650 **-
+0.23
+-0.150 -0.105 0.0377 0.0525 *-0.22 *-0.179
+7 Agelog 0.0075 0.0529 -0.012 -0.02 -0.061 -0.092 -0.074 -0.006 -0.1265
+5.61 1.277
+8
+Attitude Towards Behavior **-
+0.23
+*-0.17 **-
+0.52
+**-
+0.58
+**-0.47 -0.140 -0.043 **-
+0.46
+**-0.55
+2.28 1.347
+9
+Subjective Norms *-0.16 *-0.16 **-
+0.35
+**-
+0.46
+*-0.35 -0.082 -0.143 **-
+0.36
+**-0.48
+2.46 1.294
+10
+Perceived Behavioral Control **-
+0.22
+**-
+0.25
+**-
+0.51
+**-
+0.57
+*-0.48 **-
+0.21
+-0.143 **-
+0.52
+**-0.55
+5.07 1.322
+11
+Perceived Usefulness -0.139 -0.118 **-
+0.60
+**-
+0.59
+*-0.58 -0.121 **-0.23 **-
+0.54
+**-0.60
+5.36 1.575
+12
+Perceived Ease of Use **-
+0.23
+-0.147 **-
+0.51
+**-
+0.53
+**-0.42 *-0.18 *-0.21 **-
+0.42
+**-0.52
+4.55 1.413 13 Risk 0.0943 0.1564 **0.24 **0.27 **0.34 0.0303 0.0795 *0.202 *0.278
+5.46 1.427
+14
+Trust -0.127 *-0.16 **-
+0.27
+**-
+0.26
+*-0.17 -0.104 -0.058 *-0.24 *-0.224
+15 SN_CentXUA_Cent 0.1574 *0.19 **0.60 **0.65 **0.87 *0.17 0.1220 **0.59 **0.64
+16 SN_CentXPD_Cent **0.63 **0.20 *0.17 0.0509 0.0842 **0.56 0.1210 0.1450 0.0631
+17 SN_CentXMas_Cent **0.21 **0.54 *0.17 *0.16 0.0737 0.1334 **0.231 0.1455 0.0801
+18 SN_CentXInd_Cent **0.29 **0.23 **0.81 **0.71 **0.56 **0.23 *0.19 **0.83 **0.609
+19 SN_CentXLTO_Cent 0.1425 **0.22 **0.68 **0.84 **0.63 0.1405 0.1310 **0.64 **0.85
+20 PBC_CentXUA_Cent *0.18 **0.25 **0.67 **0.68 **0.91 0.1506 **0.22 **0.62 **0.65
+21 PBC_CentXPD_Cent 1.0000 **0.22 **0.26 *0.16 *0.16 **0.64 **0.22 *0.269 0.1510
+22 PBC_CentXMas_Cent 1.0000 **0.31 **0.30 **0.243 *0.25 **0.47 *0.28 *0.199
+23 PBC_CentXInd_Cent 1.0000 **0.82 **0.60 *0.25 **0.26 **0.85 **0.718
+24 PBC_CentXLTO_Cent 1.0000 **0.68 0.1379 *0.20 **0.76 **0.865
+25
+AttitudeToward_Behav_CentXUA
+_Cent
+1.0000 0.1162 *0.18 **0.65 **0.712
+26
+AttitudeToward_Behav_CentXPD
+_Cent
+1.0000 **0.35 *0.24 0.1088
+27
+AttitudeToward_Behav_CentXMa
+s_Cent
+1.0000 *0.18 *0.1912
+28
+AttitudeToward_Behav_CentXInd
+_Cent
+1.0000 **0.751
+29
+AttitudeToward_Behav_CentXLT
+O_Cent
+1.0000
+66
+6.4.2 Regression Analysis
+In multiple regression analysis, all the independent variables are entered and evaluated by its
+predictive power. This is done over and above predictive power of all the other independent
+variables (Pallant, 2013). All the independent variables are processed to have high forecast than
+the others. It has also explained that in the total forecast’s contribution, the weights of independent
+variables and the impacts of each variable’s prediction (Hair, Ringle, & Sarstedt, 2013). Below,
+the tables and appendix-5 show the research’s multiple regression analysis:
+Multi-collinearity was assessed by Collinearity Diagnostics. These are shown by two values i-e:
+Tolerance and VIF (appendix 5-5). As explained by Pallant (2013), Tolerance is an indicator of
+how much of the variability of the specified independent is not explained by the other independent
+variable in the model and VIF (Variance Inflation Factor) which is just the inverse of the Tolerance
+Value (1 divided by Tolerance). Value for tolerance below 0.10 and value for VIF above 10
+indicate the multiple correlation with other variables and proving the possibility for multicollinearity. Variables having multi-collinearity have been removed and hence current values of
+Tolerance and VIF in the table show the absence of multi-collinearity. Overall statistical
+significance of the model is assessed by Model Summary (appendix 5-3) which shows sig. = .000
+which mean p<.0005. R square 0.495 shows 49.5% variance in the dependent variable is explained
+by the model. However, value of R square is optimistic estimation of the model and we need to
+count Adjusted R square which is .345 which is corrected to give better picture of the results. Two
+control variables Gender and Nationality having t values -2.53 and 2.354 respectively are
+significant (p<.05 two-tailed). Independent variables which are significant are Attitude Towards
+Behavior and Risk. There is one interaction effect which is combined with Attitude Towards
+Behavior and Masculinity which is the highest in the model having t value of 3.577 and significant
+at two-tailed (p<.01). Table 6-3 and appendix 5-5 shows the multiple regression below:
+67
+ *Correlation is significant at 0.01 (two-tailed)
+**Correlation is significant at 0.05 (two-tailed)
+Table 6. 3:; Regression Analysis
+6.5 Summary of Hypotheses
+For all the hypothesis, we will refer to the Regression Analysis Table-6.3 and Appendix-5.5 for
+coefficients.
+Hypothesis 1a: Power distance moderates the relationship between attitude and behavioral
+intention
+We see that b1(ATB)(PD)=-.065, t=-.909 and p>.05 one-tailed. It shows a negative relation and is
+not supported by statistical regression.
+Linear
+Multiple
+Regression
+Model
+Independent Variables
+Unstandardized
+Coefficients
+Standardized
+Coefficients t-Value Tolerance VIF
+(Constant) 2.410 1.066
+Gender -0.518 -0.212 **-2.53 0.651 1.537
+Marital Status -0.067 -0.038 -0.454 0.662 1.511
+Education -0.294 -0.129 -1.480 0.596 1.677
+R square
+=0.495
+Adjusted R
+square
+=0.345
+Occupation 0.076 0.091 1.172 0.754 1.326
+Nationality 0.470 0.186 **2.354 0.729 1.372
+Agelog 1.678 0.103 1.031 0.457 2.187
+Attitude Towards Behavior -0.249 -0.319 *-1.989 0.176 5.667
+Subjective Norms -0.045 -0.052 -0.428 0.306 3.266
+Perceived Behavioral Control 0.184 0.214 *1.65 0.270 3.702
+Perceived Usefulness 0.243 0.270 1.609 0.162 6.190
+Perceived Ease of Use -0.112 -0.139 -0.950 0.212 4.713
+Risk -0.159 -0.177 *-1.806 0.475 2.104
+Trust 0.006 0.007 0.067 0.486 2.058
+SN_CentXPD_Cent 0.061 0.097 0.757 0.275 3.641
+SN_CentXUA_Cent 0.211 0.402 *1.875 0.099 10.129
+SN_CentXMas_Cent -0.052 -0.074 -0.702 0.412 2.429
+SN_CentXInd_Cent -0.044 -0.087 -0.461 0.127 7.877
+SN_CentXLTO_Cent -0.044 -0.103 -0.497 0.106 9.469
+PBC_CentXPD_Cent 0.015 0.021 0.189 0.376 2.662
+PBC_CentXUA_Cent -0.198 -0.441 *-1.763 0.073 13.754
+PBC_CentXMas_Cent -0.022 -0.029 -0.259 0.362 2.760
+AttitudeToward_Behav_N_CentXPD_Cent -0.065 -0.101 -0.909 0.368 2.718
+AttitudeToward_Behav_N_CentXMas_Cent 0.218 0.366 ***3.557 0.429 2.330
+68
+Hypothesis 1d: Masculine or assertive society moderates the relationship between attitude and
+behavioral intention
+Values of b4(ATB)(MAS)=.218, t=3.557 and p<.01 one-tailed. It shows a highly positive relation
+between Attitude Towards Behavior and Behavioral Intention which is positively moderated by
+Masculinity. It is supported by statistical regression.
+Hypothesis 2a: Power distance moderates the relationship between the social norms and
+behavioral intention
+We see that b6(SN)(PD)=.061, t=.757 and p>.05 one-tailed and proves no relation through
+statistical regression.
+Hypothesis 2b: Uncertainty Avoidance moderates the relationship between the social norms and
+behavioral intention
+We can see that b7(SN)(UA)=0.211, t=1.87 and p<.01 two-tailed. This hypothesis is supported by
+statistical regression showing a positive relation between social norms and behavioral intention in
+uncertainty avoidance society.
+Hypothesis 2c: The relationship between societal norms and behavioral intention is moderated by
+individualistic or collectivist factor
+From table, b8(SN)(IND)=-0.044, t=-.461 and p>.05 one-tailed show that there is negative
+association and it is not supported by statistical regression.
+Hypothesis 2d: Relationship between subjective norms and behavioral intention is influenced by
+masculinity
+69
+We see that b9(SN)(MAS)=-.052, t=-702 and p>.05 one-tailed and the negative association is also
+not supported by statistical regression.
+Hypothesis 2e: Future orientation influences the relationship between subjective norms and
+behavioral intention
+We see that b10(SN)(LTO)=-.044, t=-.497 and p>.05 one-tailed and there is negative association,
+hence it is not supported by statistical regression.
+Hypothesis 3a: Perceived behavioral control towards buying behavior is moderated by high
+power distance societies
+b11(PBC)(PD)=.015, t=.189 and p>.05 one-tailed show that the association is not significant hence
+hypothesis is not supported.
+Hypothesis 3b: Perceived behavioral control towards buying intention is affected in high
+uncertain avoidance societies
+From regression findings, we see that b12(PBC)(UA)=-.198, t=-1.763 and p<.05 two-tailed.
+Hypothesis is supported by the result showing that in conditions of uncertainty avoidance, PBC
+has a negative relation towards Behavioral Intention.
+Hypothesis d: Masculinity affects the relation between behavioral intentions towards purchase
+behavioral control
+We see that b14(PBC)(MAS)=-.022, t=-.259 and p>.05 one-tailed and it is showing a negative
+association which is not supporting the hypothesis.
+Hypothesis 6: A consumer’s trust positively affects the behavioral intention towards purchase
+70
+The values of b16T=.006 and t=.067 show that this association is not significant and p>.05 one
+tailed which does not support the hypothesis.
+Hypothesis 7: Higher the risk associated with the service, lower will be the consumer’s intention
+to purchase
+We see that b17R=-.159, t=-1.806 and p<.05 one-tailed which show that Behavioral Intention is
+negatively affected by increase in risk. So, hypothesis is supported.
+Normality, linearity, homoscedasticity and independence of residuals
+When we look at the normal probability plot of the regression standardized residual (appendix:5-
+6,5-7), we see that all the points lie in a straight diagonal line with slightly deviation. This is further
+evident from the probability curve which is a bell-shaped and showing the centralization of the
+data.
+In the scatterplot of the standardized residuals (appendix 5-8), residuals seem to be distributed in
+the rectangle. According to Tabachnick and Fidell, outliers are those cases which have
+standardized residual of more than 3.3 or less than -3.3 (Pallant, 2013). By looking at the scatterplot
+generated by SPSS, we see that all the residuals ae within the range suggested by Tabachnick and
+Fidell. The presence of outliers can be detected by inspecting the scatterplots. If there are only a
+few, as Pallant suggested, it is not necessary to take action, because it is not uncommon to find
+residuals that are outliers when dealing with large samples (Pallant, 2013).
+By taking all the assumptions into account, we can say that there is no violation of normality,
+homoscedasticity and independence of residuals, hence further analysis can be done.
+6.6 Summary
+In the above chapter, by using the multiple regression analysis, the empirical data was thoroughly
+discussed. By utilizing an estimation technique named, OLS which stands for Ordinary Least
+Square, hypotheses were tested. Earlier, 19 hypotheses were presented, some of them showed the
+direct relation and some were having moderation effect. After analyzing the results, some
+hypotheses were removed which were having multi-collinearity. In the end, there is direct effect
+by only one independent variable while one more independent variable Attitude Towards Behavior
+71
+which is affecting the BI when it is moderated by Masculinity. Except these, Gender and
+Nationality being control variable are statistically significant. In the upcoming and last chapter,
+we are going to discuss about the implication of our theory and statistical results. The discussion
+will walk along with the limitations and recommendations as well.
+72
+CHAPTER 7: CONCLUSION
+7.1 Introduction
+In the previous chapters, authors have discussed the results which have been achieved via empirical
+tests. All the hypothesis tests have been discussed along with the estimation of the research
+business model. Lastly but not the least, the discussion and conclusion of this entire research will
+be presented in this Chapter. The chapter begins with a summary of the findings of the research
+following the discussion and then lastly the conclusions. Authors of the research came up with two
+precious recommendations for Uber in Pakistan and Bangladesh which is the main attraction of
+this chapter. Further this chapter will include theoretical and managerial implications and
+limitations of the study. Then the chapter will end with the suggestions for future research.
+7.2 Findings’ Summary
+The main purpose of this master’s research is to explore the behavior patterns of consumers
+towards adoption of Uber in Bangladesh and Pakistan. Overall, 145 respondents have answered
+the survey questionnaire from both the countries. In this master’s research, we have mixed three
+business models i.e. Theory of planned behavior, Technology Acceptance Model and Hofstede's
+cultural dimensions theory and created our business model where we have 1 dependent variable,
+7 independent variables, 5 moderating variables and 7 control variables. We have come up with
+total 17 hypotheses clearly explained in chapter three of this study. Though, in the empirical study
+of this research has shown that 4 hypotheses out of 17 have successfully supported this study.
+From the descriptive analysis of data, we found out that the sample consists of 145 respondents
+from Bangladesh and Pakistan. Maximum respondents are under the age of 45 years and male
+respondents are slightly more than the female respondents that is merely due to the Asian culture.
+Most respondents are single and undergraduate education level is much higher. In our respondents,
+students are higher than any other occupation. The table 7-1 below shoes the relationship between
+hypotheses and variables.
+73
+Table 7. 1: Summary of Hypotheses
+Hypothesis Association Between Variables Findings
+H1a Power distance moderates the relationship between attitude and behavioral
+intention
+Not supported*
+H1d Masculine or assertive society moderates the relationship between attitude
+and behavioral intention
+Supported**
+H2a Power distance moderates the relationship between the social norms and
+behavioral intention
+No supported*
+H2b Uncertainty avoidance moderates the relationship between social norms
+and behavioral intention
+Supported**
+H2c The relationship between societal norms and behavioral intention is
+moderated by individualistic or collectivist factor
+Not supported*
+H2d Relationship between subjective norms and behavioral intention is
+influenced by masculinity
+Not supported*
+H2e Future orientation influences the relationship between subjective norms
+and behavioral intention
+Not supported*
+H3a Perceived behavioral control towards buying behavior is moderated by
+high power distance societies
+Not supported*
+H3b Perceived behavioral control towards buying behavior is moderated by
+uncertainty avoidance
+Supported**
+H3d Masculinity affects the relation between behavioral intentions towards
+purchase behavioral control
+Not supported*
+H6 A consumer’s trust positively affects the behavioral intention towards
+purchase
+Not supported*
+H7 Higher the risk associated with the service, lower will be the consumer’s
+intention to purchase
+Supported***
+ *p>.05 One-tailed
+ **p<.01 One-tailed
+***p<.05 One-tailed
+74
+7.3 Discussion and Conclusion
+The findings of the study have been discussed below to explore the purpose and aim of study.
+After completion of the findings, many of the hypotheses were not supported. It shows that either
+there was no relation at all among variables or it was too insignificant to support the hypothesis.
+Only four hypotheses were supported from the finding. First supported hypothesis is a positive
+moderating effect of masculine or assertiveness on relation between attitude towards behavior and
+behavioral intention of purchasing the service. As discussed in literature that in masculine
+societies, people tend to take risk and they are more open towards new technologies. Hence this
+hypothesis is proved by the study that people in Bangladesh and Pakistan, which are masculine
+societies, show positive attitude towards buying the service of Uber.
+Second supported hypothesis is the positive impact of social norms on behavioral intention in the
+uncertainty avoidance societies. According to (Ajzen, 1991), subjective norms refer to social
+pressure in terms of performing or not performing some action. People try to spread word of mouth
+to get favorable results in uncertain conditions. This is supported by study that social norms have
+positive relation towards behavioral intention in uncertainty avoidance situation.
+Third hypothesis which is supported by the study is negative moderation effect of uncertainty
+avoidance on relation between perceived behavioral control and behavioral intention. Result shows
+that people are not open towards buying a service when the situation is uncertain.
+Last hypothesis supported by study is the negative relation between risk and behavioral intention.
+This hypothesis is supported showing that if there is risk involved in a service, especially Uber,
+tendency of people towards buying a service decreases. As discussed earlier, this risk involves
+information risk, privacy risk and other uncertainties regarding usage of a service. When customers
+confront any situation of uncertainty, it increases the risk associated to that service and hence
+decreasing the probability of usage.
+Moreover, study shows that the students of both Bangladesh and Pakistan have more urge to share
+ride in Uber and authors have extracted this information from the survey questionnaire. In study
+dummy variable for female is 0 while for male is 1. The result shows that female have more
+intention to use the Uber service as compared to male. Even though the price of Uber service is a
+bit high than other local ride sharing service, people do prefer Uber as this is global and more risk
+75
+free. On the other hand, people do have slight demand or requirements from Uber to be a bit
+cheaper compete more locally. Uber brand is importantly playing a good role as this is the pioneer
+ride sharing in both countries. Different customers’ expectations are different from Uber and it
+varies from man to man. There are different factors which have been influencing the behavioral
+intention of customers towards Uber. This ride sharing is more tailored and transparent to all.
+Digitalization has affected the population of Bangladesh and Pakistan to get more synchronized
+and customized transportation service. So, overall it is the rapid changing demand era where
+people have been seeking more something which is beyond the traditional service of transports.
+However, authors have created or designed a research model with many independent variables and
+hypotheses, but all the hypotheses have not supported this research and neither all the independent
+variables did support.
+7.4 Implications of Study
+7.4.1 Theoretical Implications
+The theoretical implication of this study is that it explores which of the factors contribute towards
+behavioral intention of consumers towards buying a service. This model integrates three models,
+i-e; Theory of Planned Behavior, Technology Adoption Model and Hofstede Cultural Dimensions.
+It further involves two extra independent variables Risk and Trust. The study shows that when
+Hofstede dimensions interact with elements of Theory of Planned Behavior, only two cultural
+dimensions affect the relationship between TPB and Behavioral Intention of using Uber.
+Masculinity as a cultural dimension interacts with Attitude towards Behavior (ATB) while
+Uncertainty Avoidance (UA) interacts with Social Norms (SN) and Perceived Behavioral Control
+(PBC). It provides a scope to investigate moderating effects of Hofstede’s Cultural Dimensions on
+TPB in different cultural settings. The study also shows how Technology Adoption Model interacts
+with the dependent variable. Further, gender as a control variable shows that female are more
+interested in using Uber service than male. Over all, attitude towards behavior positively affects
+the behavioral intention in masculine societies; uncertainty avoidance moderates the relation
+between social norms and behavioral intention and between perceived behavioral control and
+behavioral control while risk is a main factor which hinders the behavioral intention of customers.
+76
+7.4.2 Managerial Implications
+Study shows that female are more interested in using Uber service. Uber has an opportunity to
+focus on male customers while retaining their female consumers which are more as compared to
+male customers. Results also show that in uncertain situations people tend to rely on word of
+mouth, so this technique should be adopted by Uber to spread awareness. Moreover, it shows how
+risk decreases the tendencies towards intentions towards using the Uber service. As given in
+literature how risk is affecting the perception of people towards shared services, this study provides
+a specified phenomenon of risk associated with Uber. One more factor to work on is how people
+are responding to the digitalization in these masculine societies.
+After conducting the whole research of Uber customer satisfaction in Bangladesh and Pakistan,
+following specific possible managerial implications have been suggested according to the given
+norms and cultures of these countries.
+Go “Glocal”
+Undoubtedly, Uber is the pioneer of ride sharing in Bangladesh and Pakistan which has upgraded
+the transport standard in these countries and won the heart of many ride users. Eventually, Uber
+has become threats for public transportation as our research has discussed it in chapter 2 in
+“Empirical Evidence of Uber”. Despite of being threat, most people love using Uber as this has
+made their lives much flexible in busy traffics. There is a “But” in here, Uber is a global company
+and it does follow globalization but to become the successful market leader in long term, Uber has
+to adapt “localization” too. May be for time being or for short run, Uber is the leader in ride sharing
+in Bangladesh and Pakistan but may be in the long run, the position can be hunt by any other local
+ride sharing company as they are more customized according to the local choice. So, being global
+and adapting localization or tailoring the current place’s taste makes the business stays longer and
+rises the barriers of entry for new comers. Meaning of Glocal is explained as;
+A good local company named, “Pathao” in Bangladesh and “Careem” in Pakistan do offer bike
+service to customers which is faster than car in heavy traffics as both the countries are always
+heavily congested in traffic. On the other hands, these services are cheaper compared to Uber.
+Customers have been asking if Uber can introduce bike services at cheaper rate or not. So, Uber
+must beat its small local competitors to be a long-time market leader.
+77
+Introduce Lady Driver
+Certainly, Uber has been maintaining its safety in both the research countries, but some female
+customers do have doubt or fear of being alone in the car late night. As Uber is a tailored ride
+sharing so, it can introduce the lady or female drivers may be not as many in number according to
+male drivers but few or may be 25% of the male driver quantity. They must only serve female
+customers and if any male customer wants to travel in case of emergency then he must have a
+woman with him in the car as ride sharer. The system can vigorously increase the usage of Uber
+among customers which may make the demand for Uber near to perfectly inelastic in both the
+countries. Then may be a bit high price of Uber will not make any big change in its demand because
+people will ultimately look at the proper safety.
+7.5 Limitation of the Study
+First limitation with the study is collection of data on social media. Going to the countries of study
+was not possible, hence limiting the direct interaction with the consumers. Another limitation is
+using closed ended surveys/questionnaires only. This method alone cannot be sufficient as there
+should be more methods of collecting data to get responses of people. This study involves different
+theories and combines different countries, making it a complex model to study. To complete this
+study in a limited time is also a limitation of this study. Data of two countries has been collected
+and combined. On the basis of inductive reasoning, it is supposed that result would have similar
+implication in both countries. Study would be more refined if the comparison of both countries
+could have been done.
+7.6 Future Research
+This research has been conducted from the views of only two countries and both countries
+(Bangladesh & Pakistan) share almost similar cultures so, in future it will be better if the research
+will be conducted between more countries or at least countries which have different cultures so,
+the usage’s effect will be more diversify. Also, as this research had a very limited time frame, we
+recommend the future researchers to conduct any research on Uber’s customer satisfaction with a
+vast or enough time period so that more primary respondents can be connected. The future research
+in Uber should be in a country where there is Uber service available and not from long distance so
+that the data can be collected through face-to-face and one-on-one interviews.
+78
+Bibliography
+AGU, B. O., Enugu, U. N., & Onuka, I. (2016). Mobile banking–adoption and challenges in Nigeria.
+International Journal of Innovative Social Sciences & Humanities Research, 4(1), 17-27.
+Agyeman, J., McLaren, D., & Schaefer-Borrego, A. (2013). Sharing cities. Friends of the Earth Briefing, 1-
+32.
+Ajzen, I. (1985). From intentions to actions: A theory of planned behavior Action control (pp. 11-39):
+Springer.
+Ajzen, I. (1991). The theory of planned behavior. Organizational behavior and human decision processes,
+50(2), 179-211.
+Al-Gahtani, S. S., Hubona, G. S., & Wang, J. (2007). Information technology (IT) in Saudi Arabia: Culture
+and the acceptance and use of IT. Information & management, 44(8), 681-691.
+Amaro, S., & Duarte, P. (2013). Online travel purchasing: A literature review. Journal of Travel & Tourism
+Marketing, 30(8), 755-785.
+Anbari, F., Khilkhanova, E., Romanova, M., & Umpleby, S. (2003). Cross cultural differences and their
+implications for managing international projects. Retrived from http://www. gwu. edu/~
+umpleby/recent_papers/2003_cross_cultural_differences_managin_international_projects_anb
+ari_khilkhanova_romanova_umpleby. htm.
+Ardichvili, A., Maurer, M., Li, W., Wentling, T., & Stuedemann, R. (2006). Cultural influences on
+knowledge sharing through online communities of practice. Journal of knowledge management,
+10(1), 94-107.
+Bandyopadhyay, K., & Fraccastoro, K. A. (2007). The effect of culture on user acceptance of information
+technology. Communications of the Association for Information Systems, 19(1), 23.
+Bank, T. W. (2016). Bangladesh: Improving Transport Lifelines. Retrieved from
+http://www.worldbank.org/en/results/2016/10/07/improving-bangladeshs-transport-lifelines
+Berger, T., Chen, C., & Frey, C. B. (2018). Drivers of disruption? Estimating the Uber effect. European
+Economic Review.
+Berman, S. J. (2012). Digital transformation: opportunities to create new business models. Strategy &
+Leadership, 40(2), 16-24.
+Briggs, S. R., & Cheek, J. M. (1986). The role of factor analysis in the development and evaluation of
+personality scales. Journal of personality, 54(1), 106-148.
+Calantone, R. J., Griffith, D. A., & Yalcinkaya, G. (2006). An empirical examination of a technology
+adoption model for the context of China. Journal of International Marketing, 14(4), 1-27.
+Choi, J., & Geistfeld, L. V. (2004). A cross-cultural investigation of consumer e-shopping adoption.
+Journal of Economic Psychology, 25(6), 821-838.
+Costello, A. B., & Osborne, J. W. (2005). Best practices in exploratory factor analysis: Four
+recommendations for getting the most from your analysis. Practical assessment, research &
+evaluation, 10(7), 1-9.
+Cusumano, M. A. (2015). How traditional firms must compete in the sharing economy. Communications
+of the ACM, 58(1), 32-34.
+Dash, S. B., & Guin, K. K. Indian Context and Its Policy Implications on Consumer Behavior Research.
+Davis, F. D. (1985). A technology acceptance model for empirically testing new end-user information
+systems: Theory and results. Massachusetts Institute of Technology.
+Davis, F. D. (1993). User acceptance of information technology: system characteristics, user perceptions
+and behavioral impacts. International journal of man-machine studies, 38(3), 475-487.
+79
+Davis, F. D., Bagozzi, R. P., & Warshaw, P. R. (1989). User acceptance of computer technology: a
+comparison of two theoretical models. Management science, 35(8), 982-1003.
+Doney, P. M., & Cannon, J. P. (1997). An examination of the nature of trust in buyer-seller relationships.
+The Journal of Marketing, 35-51.
+Ert, E., Fleischer, A., & Magen, N. (2016). Trust and reputation in the sharing economy: The role of
+personal photos in Airbnb. Tourism Management, 55, 62-73.
+Feeney, M., & companies Uber, R. (2015). Is Ridesharing Safe?
+Ford, D. P., Connelly, C. E., & Meister, D. B. (2003). Information systems research and Hofstede's
+culture's consequences: an uneasy and incomplete partnership. IEEE Transactions on
+Engineering management, 50(1), 8-25.
+Frenken, K., & Schor, J. (2017). Putting the sharing economy into perspective. Environmental Innovation
+and Societal Transitions, 23, 3-10.
+George, J. F. (2004). The theory of planned behavior and Internet purchasing. Internet research, 14(3),
+198-212.
+Glavee-Geo, R., Shaikh, A. A., & Karjaluoto, H. (2017). Mobile banking services adoption in Pakistan: are
+there gender differences? International Journal of Bank Marketing, 35(7), 1090-1114.
+Gong, W., Li, Z. G., & Stump, R. L. (2007). Global internet use and access: cultural considerations. Asia
+Pacific Journal of Marketing and Logistics, 19(1), 57-74.
+Grunig, J. E. (2009). Paradigms of global public relations in an age of digitalisation. PRism, 6(2), 1-19.
+Hair, J. F., Ringle, C. M., & Sarstedt, M. (2013). Partial least squares structural equation modeling:
+Rigorous applications, better results and higher acceptance.
+Heinz, M. (2013). Exploring predictors of technology adoption among older adults. Iowa State University.
+Hofstede, G. (1980). Motivation, leadership, and organization: do American theories apply abroad?
+Organizational dynamics, 9(1), 42-63.
+Hofstede, G. (2011). Dimensionalizing cultures: The Hofstede model in context. Online readings in
+psychology and culture, 2(1), 8.
+Hofstede, G., & Bond, M. H. (1988). The Confucius connection: From cultural roots to economic growth.
+Organizational dynamics, 16(4), 5-21.
+Hooper, D., Coughlan, J., & Mullen, M. (2008). Structural equation modelling: Guidelines for determining
+model fit. Articles, 2.
+Hox, J. J., & Boeije, H. R. (2005). Data collection, primary versus secondary.
+Hulstijn, J. H., & Laufer, B. (2001). Some empirical evidence for the involvement load hypothesis in
+vocabulary acquisition. Language learning, 51(3), 539-558.
+Jain, V., & Kothari, R. (2004). Automatic validation of survey results: Google Patents.
+Johnson, B., & Christensen, L. (2008). Educational research: Quantitative, qualitative, and mixed
+approaches: Sage.
+Jose Luis Irigoyen, H. D. (2014). Five Opportunities for 21st-Century Transport. Retrieved from
+http://blogs.worldbank.org/transport/five-opportunities-21st-century-transport
+Kamal, P., & Chen, J. Q. (2016). Trust in Sharing Economy. Paper presented at the PACIS.
+Kim, D. J., Ferrin, D. L., & Rao, H. R. (2008). A trust-based consumer decision-making model in electronic
+commerce: The role of trust, perceived risk, and their antecedents. Decision support systems,
+44(2), 544-564.
+Laukkanen, T. (2015). How uncertainty avoidance affects innovation resistance in mobile banking: The
+moderating role of age and gender. Paper presented at the System Sciences (HICSS), 2015 48th
+Hawaii International Conference on.
+Lee, M.-C. (2009). Factors influencing the adoption of internet banking: An integration of TAM and TPB
+with perceived risk and perceived benefit. Electronic commerce research and applications, 8(3),
+130-141.
+80
+Legris, P., Ingham, J., & Collerette, P. (2003). Why do people use information technology? A critical
+review of the technology acceptance model. Information & management, 40(3), 191-204.
+Li, B., Krushinsky, D., Reijers, H. A., & Van Woensel, T. (2014). The share-a-ride problem: People and
+parcels sharing taxis. European Journal of Operational Research, 238(1), 31-40.
+Lieber, R. (2015, April 10, 2015). Questions About Airbnb’s Responsibility After Attack by Dog. The New
+York Times. Retrieved from https://www.nytimes.com/2015/04/11/your-money/questionsabout-airbnbs-responsibility-after-vicious-attack-by-dog.html
+Liu, B. S.-C., Furrer, O., & Sudharshan, D. (2001). The relationships between culture and behavioral
+intentions toward services. Journal of service research, 4(2), 118-129.
+Luoma-aho, V. (2015). Understanding stakeholder engagement: Faith-holders, hateholders &
+fakeholders. RJ-IPR: Research Journal of the Institute for Public Relations, 2(1).
+Makongoro, G. (2014). Factors Influencing Customer Adoption of Mobile Banking Services in Tanzania.
+The Open University of Tanzania.
+Manjoo, F. (2014). With Uber, less reason to own a car. New York Times, 1-4.
+Mathieson, K. (1991). Predicting user intentions: comparing the technology acceptance model with the
+theory of planned behavior. Information systems research, 2(3), 173-191.
+McCoy, S., Everard, A., & Jones, B. M. (2005). An examination of the technology acceptance model in
+Uruguay and the US: a focus on culture. Journal of Global Information Technology Management,
+8(2), 27-45.
+Moon, J., Chadee, D., & Tikoo, S. (2008). Culture, product type, and price influences on consumer
+purchase intention to buy personalized products online. Journal of Business Research, 61(1), 31-
+39.
+Mun, Y. Y., & Hwang, Y. (2003). Predicting the use of web-based information systems: self-efficacy,
+enjoyment, learning goal orientation, and the technology acceptance model. International
+journal of human-computer studies, 59(4), 431-449.
+Munđar, D., Matotek, D., & Jakuš, M. Quantitative research methods participation in the information
+sciences papers in Croatia.
+Myers, M. D. (1997). Qualitative research in information systems. Management Information Systems
+Quarterly, 21(2), 241-242.
+Ngai, E. W., Heung, V. C., Wong, Y., & Chan, F. K. (2007). Consumer complaint behaviour of Asians and
+non-Asians about hotel services: an empirical analysis. European Journal of Marketing,
+41(11/12), 1375-1391.
+Nunnally, J. (1978). C.(1978). Psychometric theory, 2.
+Pallant, J. (2013). SPSS survival manual: McGraw-Hill Education (UK).
+Pavlou, P. A., & Chai, L. (2002). What drives electronic commerce across cultures? Across-cultural
+empirical investigation of the theory of planned behavior. J. Electron. Commerce Res., 3(4), 240-
+253.
+Pavlou, P. A., & Fygenson, M. (2006). Understanding and predicting electronic commerce adoption: An
+extension of the theory of planned behavior. MIS quarterly, 115-143.
+Picard, R. G. (2000). Changing business models of online content services: Their implications for
+multimedia and other content producers. International Journal on Media Management, 2(2), 60-
+68.
+Pookulangara, S., & Koesler, K. (2011). Cultural influence on consumers' usage of social networks and its'
+impact on online purchase intentions. Journal of Retailing and Consumer Services, 18(4), 348-
+354.
+Puriwat, W., & Tripopsakul, S. (2017). Mobile Banking Adoption in Thailand: An Integration of
+Technology Acceptance Model and Mobile Service Quality. European Research Studies, 20(4B),
+200-210.
+81
+Quintal, V. A., Lee, J. A., & Soutar, G. N. (2010). Risk, uncertainty and the theory of planned behavior: A
+tourism example. Tourism Management, 31(6), 797-805.
+Rahm, E., & Do, H. H. (2000). Data cleaning: Problems and current approaches. IEEE Data Eng. Bull.,
+23(4), 3-13.
+Ramayah, T., & Ignatius, J. (2005). Impact of perceived usefulness, perceived ease of use and perceived
+enjoyment on intention to shop online. ICFAI Journal of Systems Management (IJSM), 3(3), 36-
+51.
+Routhier Perry, S. (2014). Digitization and Digital Preservation: A Review of the Literature. School of
+Information Student Research Journal, 4(1), 4.
+Satama, S. (2014). Consumer adoption of access-based consumption services-Case AirBnB.
+Schor, J. (2016). DEBATING THE SHARING ECONOMY. Journal of Self-Governance & Management
+Economics, 4(3).
+Shaikh, A. A., Glavee-Geo, R., & Karjaluoto, H. (2018). How relevant are risk perceptions, effort, and
+performance expectancy in mobile banking adoption? International Journal of E-Business
+Research (IJEBR), 14(2), 39-60.
+Sharma, S., Durand, R. M., & Gur-Arie, O. (1981). Identification and analysis of moderator variables.
+Journal of marketing research, 291-300.
+Smith, S. M., & Albaum, G. (2012). Basic Marketing Research: Volume 1. Handbook for Research
+Professionals. Provo: Qualtrics Labs Inc.
+Steenkamp, J.-B. E., Hofstede, F. t., & Wedel, M. (1999). A cross-national investigation into the individual
+and national cultural antecedents of consumer innovativeness. The Journal of Marketing, 55-69.
+Steers, R. M., Meyer, A. D., & Sanchez-Runde, C. J. (2008). National culture and the adoption of new
+technologies. Journal of World Business, 43(3), 255-260.
+Straub, D., Keil, M., & Brenner, W. (1997). Testing the technology acceptance model across cultures: A
+three country study. Information & management, 33(1), 1-11.
+Streiner, D. L., Norman, G. R., & Cairney, J. (2015). Health measurement scales: a practical guide to their
+development and use: Oxford University Press, USA.
+Syed, H., & Malik, A. N. (2014). Comparative study of effect of culture on technology adoption in
+Pakistan and USA. The Business & Management Review, 5(1), 42.
+Tapscott, D. (1996). The digital economy: Promise and peril in the age of networked intelligence (Vol. 1):
+McGraw-Hill New York.
+Triandis, H. C., McCusker, C., & Hui, C. H. (1990). Multimethod probes of individualism and collectivism.
+Journal of personality and social psychology, 59(5), 1006.
+Van den Bergh, J. C., Truffer, B., & Kallis, G. (2011). Environmental innovation and societal transitions:
+Introduction and overview. Environmental Innovation and Societal Transitions, 1(1), 1-23.
+Venkatesh, V., & Davis, F. D. (2000). A theoretical extension of the technology acceptance model: Four
+longitudinal field studies. Management science, 46(2), 186-204.
+Venkatesh, V., Morris, M. G., & Ackerman, P. L. (2000). A longitudinal field investigation of gender
+differences in individual technology adoption decision-making processes. Organizational
+behavior and human decision processes, 83(1), 33-60.
+Wallsten, S. (2015). The competitive effects of the sharing economy: how is Uber changing taxis.
+Technology Policy Institute, 22.
+Yıldırım, E., Arslan, Y., & Barutçu, M. T. (2016). THE ROLE OF UNCERTAINTY AVOIDANCE AND
+INDULGENCE AS CULTURAL DIMENSIONS ON ONLINE SHOPPING EXPENDITURE.
+Yu, C.-S. (2012). Factors affecting individuals to adopt mobile banking: Empirical evidence from the
+UTAUT model. Journal of Electronic Commerce Research, 13(2), 104.
+Zakour, A. B. (2004). Cultural differences and information technology acceptance. Paper presented at the
+Proceedings of the 7th annual conference of the Southern association for information systems.
+82
+Zárraga, C., & Bonache, J. (2003). Assessing the team environment for knowledge sharing: an empirical
+analysis. International Journal of Human Resource Management, 14(7), 1227-1245.
+Zekanovic-Korona, L., & Grzunov, J. (2014). Evaluation of shared digital economy adoption: Case of
+Airbnb. Paper presented at the Information and Communication Technology, Electronics and
+Microelectronics (MIPRO), 2014 37th International Convention on.
+Zhang, Y., Guo, H., Li, C., Wang, W., Jiang, X., & Liu, Y. (2016). Which one is more attractive to traveler,
+taxi or tailored taxi? An empirical study in China.
+83
+APPENDICES
+Appendix 1: Descriptive Statistics from SPSS
+Descriptive Statistics
+N Minimum Maximum Mean
+Std.
+Deviation Skewness Kurtosis
+Statistic Statistic Statistic Statistic Statistic Statistic
+Std.
+Error Statistic
+Std.
+Error
+UA1 145 1 7 5.56 1.594 -1.011 0.201 0.118 0.400
+UA2 145 1 7 5.74 1.439 -1.317 0.201 1.534 0.400
+UA3 145 1 7 5.54 1.537 -1.353 0.201 1.278 0.400
+UA4 145 1 7 3.37 1.670 0.374 0.201 -0.775 0.400
+PD1 145 1 7 2.03 1.507 1.584 0.201 1.848 0.400
+PD2 145 1 7 2.17 1.639 1.361 0.201 0.828 0.400
+PD3 145 1 7 2.27 1.591 1.238 0.201 0.645 0.400
+PD4 145 1 7 2.64 1.694 0.865 0.201 -0.178 0.400
+MAS1 145 1 7 2.19 1.491 1.448 0.201 1.692 0.400
+MAS2 145 1 7 2.44 1.558 1.031 0.201 0.359 0.400
+MAS3 145 1 7 2.74 1.657 0.665 0.201 -0.457 0.400
+MAS4 145 1 7 5.60 1.835 -1.225 0.201 0.293 0.400
+IND1 145 1 7 5.63 1.495 -1.553 0.201 2.109 0.400
+IND2 145 1 7 5.50 1.477 -1.036 0.201 0.279 0.400
+IND3 145 1 7 4.63 1.476 -0.372 0.201 -0.289 0.400
+IND4 145 1 7 4.61 1.626 -0.415 0.201 -0.655 0.400
+LTO1 145 1 7 5.15 1.647 -1.078 0.201 0.324 0.400
+LTO2 145 1 7 5.01 1.512 -0.734 0.201 0.053 0.400
+LTO3 145 1 7 5.20 1.512 -1.055 0.201 0.857 0.400
+LTO4 145 1 7 5.43 1.438 -1.083 0.201 0.815 0.400
+PU1 145 1 7 5.75 1.417 -1.586 0.201 2.281 0.400
+PU2 145 1 7 5.66 1.400 -1.331 0.201 1.389 0.400
+PU3 145 1 7 5.37 1.467 -0.936 0.201 0.161 0.400
+PU4 145 2 7 5.42 1.521 -0.897 0.201 -0.114 0.400
+PEU1 145 1 7 5.41 1.597 -1.076 0.201 0.527 0.400
+PEU2 145 1 7 5.33 1.559 -1.202 0.201 0.928 0.400
+PEU3 145 1 7 5.51 1.582 -1.119 0.201 0.663 0.400
+PEU4 145 1 7 5.31 1.614 -0.889 0.201 0.243 0.400
+ATB1 145 1 7 5.46 1.744 -1.317 0.201 0.820 0.400
+ATB2 145 1 7 4.77 1.756 -0.400 0.201 -0.822 0.400
+ATB3 145 1 7 5.34 1.605 -1.008 0.201 0.372 0.400
+ATB4 145 1 7 5.27 1.741 -1.006 0.201 0.113 0.400
+SN1 145 1 7 4.38 1.505 -0.459 0.201 -0.010 0.400
+SN2 145 1 7 4.63 1.514 -0.430 0.201 -0.105 0.400
+84
+SN3 145 1 7 4.63 1.490 -0.374 0.201 -0.219 0.400
+SN4 145 1 7 5.17 1.594 -1.005 0.201 0.644 0.400
+R1 145 1 7 4.59 1.742 -0.434 0.201 -0.623 0.400
+R2 145 1 7 4.07 1.727 -0.026 0.201 -0.862 0.400
+R3 145 1 7 4.70 1.564 -0.478 0.201 -0.361 0.400
+R4 145 1 7 5.14 1.484 -0.886 0.201 0.491 0.400
+PBC1 145 1 7 5.57 1.549 -1.155 0.201 0.485 0.400
+PBC2 145 1 7 5.35 1.493 -1.015 0.201 0.318 0.400
+PBC3 145 1 7 5.44 1.527 -1.145 0.201 0.730 0.400
+PBC4 145 1 7 4.63 1.711 -0.460 0.201 -0.404 0.400
+T1 145 1 7 3.93 1.678 0.039 0.201 -0.832 0.400
+T2 145 1 7 3.86 1.813 0.088 0.201 -0.976 0.400
+T3 145 1 7 3.74 1.759 0.241 0.201 -0.747 0.400
+T4 145 1 7 4.66 1.538 -0.378 0.201 -0.443 0.400
+BI1 145 1 7 5.02 1.548 -0.411 0.201 -0.775 0.400
+BI2 145 1 7 5.31 1.326 -0.589 0.201 -0.021 0.400
+BI3 145 2 7 5.48 1.281 -0.564 0.201 -0.499 0.400
+BI4 145 2 7 5.19 1.324 -0.253 0.201 -0.744 0.400
+Valid N
+(listwise)
+145
+Appendix 2: Socio-Demographic Statistics
+Appendix 2. 1: Age of Respondents
+Age
+Frequency Percent
+Valid
+Percent
+Cumulative
+Percent
+Valid 16 1 0.7 0.7 0.7
+19 1 0.7 0.7 1.4
+20 4 2.8 2.8 4.1
+21 2 1.4 1.4 5.5
+22 4 2.8 2.8 8.3
+23 12 8.3 8.3 16.6
+24 7 4.8 4.8 21.4
+25 13 9.0 9.0 30.3
+26 21 14.5 14.5 44.8
+27 16 11.0 11.0 55.9
+28 13 9.0 9.0 64.8
+29 14 9.7 9.7 74.5
+30 5 3.4 3.4 77.9
+31 6 4.1 4.1 82.1
+32 14 9.7 9.7 91.7
+33 2 1.4 1.4 93.1
+85
+34 1 0.7 0.7 93.8
+37 1 0.7 0.7 94.5
+38 3 2.1 2.1 96.6
+39 1 0.7 0.7 97.2
+40 1 0.7 0.7 97.9
+42 1 0.7 0.7 98.6
+43 1 0.7 0.7 99.3
+67 1 0.7 0.7 100.0
+Total 145 100.0 100.0
+Appendix 2. 2: Gender of Respondents
+Gender
+Frequency Percent Valid Percent Cumulative Percent
+Valid Female 69 47.6 47.6 47.6
+Male 76 52.4 52.4 100.0
+Total 145 100.0 100.0
+Appendix 2. 3: Marital Status of Respondents
+Marital Status
+Frequency Percent Valid Percent Cumulative Percent
+Valid Single 72 49.7 49.7 49.7
+Married 68 46.9 46.9 96.6
+Unmarried 2 1.4 1.4 97.9
+Divorced 1 .7 .7 98.6
+Widowed 2 1.4 1.4 100.0
+Total 145 100.0 100.0
+Appendix 2. 4: Education Level of Respondents
+Education
+Frequency Percent Valid Percent Cumulative Percent
+Valid Completed High School 1 .7 .7 .7
+Technical 1 .7 .7 1.4
+Undergraduate 49 33.8 33.8 35.2
+Postgraduate 94 64.8 64.8 100.0
+Total 145 100.0 100.0
+86
+Appendix 2. 5: Occupation of Respondents
+Occupation
+Frequency Percent Valid Percent Cumulative Percent
+Valid Student 51 35.2 35.2 35.2
+Unemployed 13 9.0 9.0 44.1
+Public Employee 16 11.0 11.0 55.2
+Private Employee 52 35.9 35.9 91.0
+Entrepreneur 13 9.0 9.0 100.0
+Total 145 100.0 100.0
+Appendix 2. 6: Country of Origin of Respondents
+Nationality
+Frequency Percent Valid Percent Cumulative Percent
+Valid Pakistan 54 37.2 37.2 37.2
+Bangladesh 91 62.8 62.8 100.0
+Total 145 100.0 100.0
+Appendix 3: Factor Analysis
+Appendix 3. 1: KMO and Barlett’s Test
+KMO and Bartlett's Test
+Kaiser-Meyer-Olkin Measure... .895
+Bartlett's Test of Sphericity Approx. Chi-Square 7186.069
+Df 1540
+Sig.Bartlett .000
+87
+Appendix 3. 2: Communalities
+Communalities
+Initial Extraction
+UA1 1.000 0.734
+UA2 1.000 0.734
+UA3 1.000 0.751
+UA4 1.000 0.730
+PD1 1.000 0.781
+PD2 1.000 0.830
+PD3 1.000 0.782
+PD4 1.000 0.784
+MAS1 1.000 0.763
+MAS2 1.000 0.824
+MAS3 1.000 0.685
+MAS4 1.000 0.731
+IND1 1.000 0.779
+IND2 1.000 0.782
+IND3 1.000 0.868
+IND4 1.000 0.734
+LTO1 1.000 0.816
+LTO2 1.000 0.885
+LTO3 1.000 0.858
+88
+LTO4 1.000 0.748
+PU1 1.000 0.864
+PU2 1.000 0.841
+PU3 1.000 0.814
+PU4 1.000 0.811
+PEU1 1.000 0.843
+PEU2 1.000 0.800
+PEU3 1.000 0.859
+PEU4 1.000 0.803
+ATB1 1.000 0.816
+ATB2 1.000 0.705
+ATB3 1.000 0.839
+ATB4 1.000 0.788
+SN1 1.000 0.855
+SN2 1.000 0.890
+SN3 1.000 0.897
+SN4 1.000 0.701
+R1 1.000 0.753
+R2 1.000 0.698
+R3 1.000 0.876
+R4 1.000 0.717
+PBC1 1.000 0.757
+89
+PBC2 1.000 0.764
+PBC3 1.000 0.768
+PBC4 1.000 0.756
+T1 1.000 0.799
+T2 1.000 0.845
+T3 1.000 0.807
+T4 1.000 0.750
+BI1 1.000 0.832
+BI2 1.000 0.857
+BI3 1.000 0.810
+BI4 1.000 0.804
+EXTRACTION PC...
+Appendix 3. 3: Total Variance Explained
+Total Variance Explained
+Component
+Initial Eigenvalues
+Extraction Sums of Squared
+Loadings Rotation Sums of Squared Loadings
+Total
+% of
+Variance
+Cumulative
+% Total
+% of
+Variance
+Cumulative
+% Total
+% of
+Variance
+Cumulative
+%
+1 21.01 37.52 37.52 21.01 37.52 37.52 12.90 23.03 23.03
+2 4.71 8.41 45.93 4.71 8.41 45.93 4.75 8.48 31.51
+3 3.18 5.68 51.61 3.18 5.68 51.61 3.80 6.79 38.30
+4 2.36 4.21 55.82 2.36 4.21 55.82 3.09 5.52 43.82
+5 2.04 3.65 59.47 2.04 3.65 59.47 3.00 5.35 49.17
+6 1.81 3.23 62.70 1.81 3.23 62.70 2.53 4.52 53.69
+90
+7 1.64 2.93 65.63 1.64 2.93 65.63 2.44 4.35 58.05 8 1.37 2.45 68.08 1.37 2.45 68.08 2.35 4.20 62.24 9 1.31 2.35 70.42 1.31 2.35 70.42 2.19 3.90 66.15
+10 1.21 2.15 72.58 1.21 2.15 72.58 1.56 2.79 68.94
+11 1.07 1.90 74.48 1.07 1.90 74.48 1.55 2.76 71.70
+12 1.00 1.79 76.27 1.00 1.79 76.27 1.51 2.69 74.39
+13 0.90 1.60 77.87 0.90 1.60 77.87 1.45 2.59 76.98
+14 0.84 1.50 79.37 0.84 1.50 79.37 1.34 2.39 79.37
+15
+0.82 1.46 80.83
+16 0.71 1.27 82.10
+17 0.66 1.17 83.27
+18 0.60 1.07 84.34
+19 0.59 1.06 85.41
+20 0.53 0.94 86.35
+21 0.51 0.91 87.26
+22 0.49 0.88 88.14
+23
+0.45 0.81 88.95
+24 0.42 0.75 89.70
+25 0.41 0.74 90.44
+26 0.39 0.70 91.14
+27 0.36 0.65 91.79
+28 0.33 0.59 92.38
+29 0.32 0.57 92.95
+30 0.30 0.53 93.49
+31
+0.28 0.50 93.98
+32 0.26 0.47 94.45
+33 0.24 0.43 94.89
+34 0.24 0.42 95.31
+35 0.22 0.39 95.70
+36 0.20 0.37 96.06
+37 0.20 0.35 96.41
+38 0.18 0.32 96.73
+39
+0.17 0.31 97.04
+40 0.16 0.29 97.33
+41 0.15 0.27 97.60
+42 0.15 0.26 97.86
+43 0.14 0.25 98.11
+44 0.13 0.24 98.35
+45 0.12 0.21 98.56
+46 0.11 0.19 98.75
+47
+0.10 0.18 98.94
+48 0.10 0.17 99.11
+49 0.09 0.15 99.26
+91
+50 0.08 0.14 99.40
+51 0.07 0.13 99.53
+52 0.06 0.11 99.65
+53 0.06 0.11 99.76
+54 0.05 0.10 99.85
+55 0.04 0.08 99.93
+56 0.04 0.07 100.00
+EXTRACTION PC...
+Appendix 4: Reliability Measurement
+Appendix 4. 1: Reliability Statistics of Uncertainty Avoidance
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based on
+Standardized Items N of Items
+.787 .789 3
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+UA1 11.28 7.243 .569 .325 .776
+UA2 11.10 7.380 .668 .460 .672
+UA3 11.30 7.016 .650 .445 .686
+Appendix 4. 2: Reliability Statistics of Power Distance
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based on
+Standardized Items N of Items
+.858 .858 4
+92
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+PD1 7.08 18.354 .651 .516 .839
+PD2 6.94 16.233 .765 .621 .791
+PD3 6.85 17.157 .708 .534 .816
+PD4 6.48 16.654 .687 .525 .826
+Appendix 4. 3: Reliability Statistics of Masculinity
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based
+on Standardized Items N of Items
+.764 .767 3
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+MAS1 5.19 7.805 .605 .463 .674
+MAS2 4.93 6.856 .709 .534 .551
+MAS3 4.63 7.805 .488 .262 .808
+Appendix 4. 4: Reliability Statistics of Individualism
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based
+on Standardized Items N of Items
+.752 .752 2
+93
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+IND2 4.63 2.180 .602 .363 .
+IND3 5.50 2.182 .602 .363 .
+Appendix 4. 5: Reliability Statistics of Long-Term Orientation
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based
+on Standardized Items N of Items
+.892 .894 2
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+LTO1 5.01 2.285 .808 .654 .
+LTO2 5.15 2.713 .808 .654 .
+Appendix 4. 6: Reliability Statistics of Perceived Ease of Use
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha
+Based on Standardized
+Items N of Items
+.910 .910 2
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+PEU3 5.31 2.604 .835 .698 .
+PEU4 5.51 2.502 .835 .698 .
+94
+Appendix 4. 7: Reliability Statistics of Perceived Usefulness
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based
+on Standardized Items N of Items
+.937 .937 2
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+PU1 5.66 1.961 .881 .777 .
+PU2 5.75 2.007 .881 .777 .
+Appendix 4. 8: Reliability Statistics of Risk
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based
+on Standardized Items N of Items
+.856 .860 4
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance
+if Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs Alpha
+if Item Deleted
+R1 10.0897 17.166 .667 .516 .833
+R2 9.5655 17.609 .637 .452 .845
+R3 10.2000 16.481 .858 .742 .752
+R4 10.6345 19.053 .661 .524 .834
+95
+Appendix 4. 9: Reliability Statistics of Trust
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based
+on Standardized Items N of Items
+.871 .870 4
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+T1 12.26 19.250 .764 .610 .818
+T2 12.33 18.029 .779 .660 .811
+T3 12.45 18.916 .739 .576 .829
+T4 11.54 21.986 .621 .412 .873
+Appendix 4. 10: Reliability Statistics of Attitude Towards Behavior
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based
+on Standardized Items N of Items
+.921 .923 2
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+ATB3 5.27 3.031 .856 .734 .
+ATB4 5.34 2.575 .856 .734 .
+96
+Appendix 4. 11: Reliability Statistics of Perceived Behavioral Control
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based
+on Standardized Items N of Items
+.863 .86A3 2
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+PBC1 5.35 2.230 .759 .576 .
+PBC2 5.57 2.399 .759 .576 .
+Appendix 4. 12: Reliability Statistics of Subjective Norms
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based
+on Standardized Items N of Items
+.934 .934 3
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+SN1 9.26 8.348 .846 .719 .919
+SN2 9.01 8.055 .887 .788 .887
+SN3 9.01 8.340 .861 .750 .908
+97
+Appendix 4. 13: Reliability Statistics of Behavioral Intention
+Reliability Statistics
+Cronbachs Alpha
+Cronbachs Alpha Based on
+Standardized Items N of Items
+.916 .918 4
+Item Total Statistics
+Scale Mean if
+Item Deleted
+Scale Variance if
+Item Deleted
+Correlated ItemTotal Correlation
+Squared Multiple
+Correlation
+Cronbachs
+Alpha if Item
+Deleted
+BI1 15.99 12.583 .831 .708 .886
+BI2 15.70 13.949 .848 .743 .877
+BI3 15.52 14.723 .788 .662 .898
+BI4 15.81 14.500 .778 .622 .901
+
+98
+Appendix 5: Linear Regression Analysis
+Appendix 5. 1: Descriptive Statistics; Behavioral Intention (BI) is Dependent Variable
+Descriptive Statistics
+Mean Std. Deviation N
+Behav_Intention 5.25 1.227 145
+Gender .52 .501 145
+Marital Status 1.57 .695 145
+Education 5.63 .539 145
+Occupation 2.74 1.471 145
+Nationality .63 .485 145
+Agelog 1.44 .075 145
+Uncertainty_Avoidance 5.61 1.277 145
+Power_Distance 2.28 1.347 145
+Masculinity 2.46 1.294 145
+Individualism 5.07 1.322 145
+AttitudeTowards_Behav 5.36 1.575 145
+Subjec_Norms 4.55 1.413 145
+Perc_BehavControl 5.46 1.427 145
+Perc_useful_N 5.7069 1.36624 145
+LongTermOrient 5.0793 1.50194 145
+PerceEase_Use_N 5.4103 1.53056 145
+Revised_Risk 3.3741 1.36522 145
+Trust 4.05 1.443 145
+SN_CentXUA_Cent .81 2.338 145
+SN_CentXPD_Cent .27 1.946 145
+SN_CentXMas_Cent .09 1.738 145
+SN_CentXInd_Cent .82 2.435 145
+SN_CentXLTO_Cent 1.11 2.855 145
+PBC_CentXUA_Cent .97 2.728 145
+PBC_CentXPD_Cent -.04 1.752 145
+PBC_CentXMas_Cent -.02 1.623 145
+PBC_CentXInd_Cent 1.03 2.723 145
+PBC_CentXLTO_Cent 1.28 3.126 145
+AttitudeToward_Behav_N_CentXUA_Cent 1.1330 2.97534 145
+AttitudeToward_Behav_N_CentXPD_Cent .0410 1.92210 145
+99
+AttitudeToward_Behav_N_CentXMas_Cent -.1266 2.05730 145
+AttitudeToward_Behav_N_CentXInd_Cent 1.0609 2.97705 145
+AttitudeToward_Behav_N_CentXLTO_Cent 1.4812 3.54121 145
+Appendix 5. 2: Pearson Correlations; Behavioral Intention (BI) is Dependent Variable
+Appendix 5. 3: Model Summary
+Model Summaryb
+Model R R Square
+Adjusted R
+Square
+Std. Error of
+the Estimate
+Change Statistics
+R Square
+Change F Change df1 df2
+Significance
+F Change
+1 .704a
+.495 .345 .993 .495 3.301 33 111 .000
+a. Predictors: (constant), GEND, EDU, OCCUP, NAT, MASTAT, AGELOG, R, T, PU, PEU, ATB, SN, PBC, PD, UA, MAS, IND,
+LTO
+b. Dependent Variable: Behavioral Intention (BI)
+Correlation Matrix
+Factors 1 2 3 4 5 6 7 8 9 10 11 12 13
+BI 1 1.000 0.435 0.023 -0.063 0.398 0.495 0.386 0.449 -0.410 0.306 0.450 0.421 0.415
+UA 2 1.000 -0.081 -0.077 0.534 0.622 0.450 0.535 -0.420 0.269 0.522 0.554 0.582
+PD 3 1.000 0.372 0.036 -0.011 0.145 -0.022 -0.116 0.240 -0.048 0.019 0.013
+MAS 4 1.000 0.006 0.035 0.050 -0.010 -0.086 0.138 0.046 -0.061 -0.015
+IND 5 1.000 0.501 0.441 0.551 -0.286 0.304 0.551 0.501 0.522
+PU 6 1.000 0.584 0.663 -0.450 0.363 0.629 0.758 0.801
+SN 7 1.000 0.632 -0.438 0.464 0.510 0.585 0.592
+PBC 8 1.000 -0.447 0.366 0.595 0.688 0.713
+R 9 0.560 0.448 0.438 0.440
+T 10 1.000 0.351 0.313 0.371
+LTO 11 1.000 0.615 0.628
+ATB 12 1.000 0.750
+PEU 13 1.000
+100
+Appendix 5. 4: ANOVA
+ANOVAa
+Model Sum of Squares df Mean Square F Significance
+1 Regression 107.449 33 3.256 3.301 .000b
+Residual 109.488 111 .986
+Total 216.937 144
+a. Dependent Variable: Behavioral Intention (BI)
+b. Predictors: (constant), GEND, EDU, OCCUP, NAT, MASTAT, AGELOG, R, T, PU, PEU, ATB, SN, PBC, PD, UA, MAS, IND, LTO
+Appendix 5. 5: Coefficient
+Coefficientsa
+Model
+Unstandardized
+Coefficients
+Standardized
+Coefficients
+t Significance
+Correlations
+Collinearity
+Statistics
+B
+Std.
+Error Beta
+Zero
+order Partial Part Tolerance VIF
+1 (Constant) 2.410 2.260 1.066 0.289
+Gender -0.518 0.205 -0.212 -2.531 0.013 -0.176 -0.234 -0.171 0.651 1.537
+Marital Status -0.067 0.146 -0.038 -0.454 0.650 -0.036 -0.043 -0.031 0.662 1.511
+Education -0.294 0.199 -0.129 -1.480 0.142 -0.067 -0.139 -0.100 0.596 1.677
+Occupation 0.076 0.065 0.091 1.172 0.244 -0.094 0.111 0.079 0.754 1.326
+Nationality 0.470 0.200 0.186 2.354 0.020 0.237 0.218 0.159 0.729 1.372
+Agelog 1.678 1.628 0.103 1.031 0.305 -0.018 0.097 0.069 0.457 2.187
+UA 0.254 0.110 0.264 2.300 0.023 0.435 0.213 0.155 0.345 2.896
+PD 0.060 0.088 0.065 0.676 0.500 0.023 0.064 0.046 0.487 2.054
+MAS -0.080 0.090 -0.084 -0.888 0.376 -0.063 -0.084 -0.060 0.506 1.976
+IND 0.103 0.095 0.111 1.082 0.282 0.398 0.102 0.073 0.431 2.320
+ATB -0.249 0.125 -0.319 -1.989 0.049 0.443 -0.186 -0.134 0.176 5.667
+SN -0.045 0.106 -0.052 -0.428 0.669 0.386 -0.041 -0.029 0.306 3.266
+PBC 0.184 0.112 0.214 1.653 0.101 0.449 0.155 0.111 0.270 3.702
+PU 0.243 0.151 0.270 1.609 0.110 0.457 0.151 0.109 0.162 6.190
+LTO 0.082 0.102 0.100 0.802 0.424 0.450 0.076 0.054 0.292 3.429
+PEU -0.112 0.117 -0.139 -0.950 0.344 0.415 -0.090 -0.064 0.212 4.713
+Risk -0.159 0.088 -0.177 -1.806 0.074 -0.410 -0.169 -0.122 0.475 2.104
+Trust 0.006 0.082 0.007 0.067 0.946 0.306 0.006 0.005 0.486 2.058
+SN_CentXPD_Cent 0.061 0.081 0.097 0.757 0.451 0.024 0.072 0.051 0.275 3.641
+SN_CentXMas_Cent -0.052 0.074 -0.074 -0.702 0.484 -0.156 -0.067 -0.047 0.412 2.429
+SN_CentXInd_Cent -0.044 0.095 -0.087 -0.461 0.646 -0.285 -0.044 -0.031 0.127 7.877
+SN_CentXLTO_Cent -0.044 0.089 -0.103 -0.497 0.620 -0.318 -0.047 -0.033 0.106 9.469
+PBC_CentXPD_Cent 0.015 0.077 0.021 0.189 0.851 -0.052 0.018 0.013 0.376 2.662
+PBC_CentXMas_Cent -0.022 0.085 -0.029 -0.259 0.796 -0.131 -0.025 -0.017 0.362 2.760
+ATB_CXPD_C -0.065 0.071 -0.101 -0.909 0.365 -0.042 -0.086 -0.061 0.368 2.718
+ATB_CtXMas_C 0.218 0.061 0.366 3.558 0.001 0.031 0.320 0.240 0.429 2.330
+a. Dependent Variable: Behav_Intention
+101
+Appendix 5. 6: Histogram
+Appendix 5. 7: Normal P-P Plot
+102
+Appendix 5. 8: Scatterplot
